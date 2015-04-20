@@ -5945,239 +5945,481 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="0" month="" year="" maasa="" samvatsara="">
+		<part pnum="02" month="" year="" maasa="ಕಾರ್ತಿಕ" samvatsara="ಸಿದ್ಧಾರ್ಥಿ">
+			<entry>
+				<title>ಶ್ರೀ ಜಗದಂಬಾಸ್ತುತಿ</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಧಿಗತ ತತ್ತ್ವರು</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors>
+					<author type="1" title="">ತುಮ್ಮಲಪಲ್ಲಿ ರಾಮಲಿಂಗೇಶ್ವರರಾವ್ ಶ್ರೀ</author>
+					<author type="2" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನರಜನ್ಮ ಪ್ರಶಸ್ತಿ</title>
+				<feature></feature>
+				<page>0009-0020</page>
+				<allauthors>
+					<author type="1" title="">ಜಗದ್ಗುರು ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳವರು</author>
+					<author type="2" title="ಸೌ">ಸೀತಾದೇವಿ ಹೆಚ್. ಎಲ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಜತಮಹೋತ್ಸವ</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author type="1" title="">ಬಸವಾನಿ ರಾಮಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುವಂಶಕಾವ್ಯ</title>
+				<feature></feature>
+				<page>0025-0032</page>
+				<allauthors>
+					<author type="1" title="">ಕಾಶಿ ಲಕ್ಷ್ಮಣಶಾಸ್ತ್ರೀ</author>
+					<author type="2" title="">ವೆಂಕಣ್ಣಯ್ಯ ಟಿ. ಎಸ್. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಜತೋತ್ಸವ ಸಮಾರಂಭಗಳು</title>
+				<feature></feature>
+				<page>0033-0036</page>
+				<allauthors>
+					<author type="1" title="">ಭಾರದ್ವಾಜ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗಸೂತ್ರ</title>
+				<feature></feature>
+				<page>0037-0040</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಂಕರಶಾಸ್ತ್ರೀ ಕೆ. ಪಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Speech by Shri Govind Narain Governor of Karnataka</title>
+				<feature></feature>
+				<page>0041-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" month="" year="" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಸಿದ್ಧಾರ್ಥಿ">
+			<entry>
+				<title>ಷಣ್ಮುಖಸ್ತುತಿಃ</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದರು ಮತ್ತು ಅವರ ತತ್ವೋಪದೇಶಗಳು</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗಸೂತ್ರ</title>
+				<feature></feature>
+				<page>0009-0016</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಂಕರಶಾಸ್ತ್ರೀ ಕೆ. ಪಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸತ್ಯಂ ವದ ಧರ್ಮಂ ಚರ</title>
+				<feature></feature>
+				<page>0017-0024</page>
+				<allauthors>
+					<author type="1" title="">ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳವರು ಶ್ರೀ ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗಿವಿದ್ಯಾತೀರ್ಥ</title>
+				<feature></feature>
+				<page>0025-0028</page>
+				<allauthors>
+					<author type="1" title="">ಶಾಸ್ತ್ರೀ ಲ. ನ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಸ್ಕಾರಗಳು ಅವುಗಳ ಮಹತ್ವ ಮತ್ತು ರಹಸ್ಯ</title>
+				<feature></feature>
+				<page>0029-0036</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಂಕರಶಾಸ್ತ್ರೀ ಕೆ. ಪಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುವಂಶಕಾವ್ಯ</title>
+				<feature></feature>
+				<page>0037-0044</page>
+				<allauthors>
+					<author type="1" title="">ಕಾಶಿ ಲಕ್ಷ್ಮಣಶಾಸ್ತ್ರೀ</author>
+					<author type="2" title="">ವೆಂಕಣ್ಣಯ್ಯ ಟಿ. ಎಸ್. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಜಗದ್ಗುರುಗಳವರ ಪ್ರವಾಸದ ವಿವರ</title>
+				<feature></feature>
+				<page>0045-0049</page>
+				<allauthors>
+					<author type="1" title="">ಹರಿಹರನ್ ಪಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="" year="" maasa="ಮಾಘ" samvatsara="ಸಿದ್ಧಾರ್ಥಿ">
 			<entry>
 				<title></title>
 				<feature></feature>
-				<page></page>
+				<page>0001-0002</page>
 				<allauthors>
 					<author type="1" title=""></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗುರುವಂಶಕಾವ್ಯಮ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0003-0008</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಕಾಶಿ ಲಕ್ಷ್ಮಣಶಾಸ್ತ್ರೀ</author>
+					<author type="2" title="">ವೆಂಕಣ್ಣಯ್ಯ ಟಿ. ಎಸ್. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗಸೂತ್ರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0016</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಂಕರಶಾಸ್ತ್ರೀ ಕೆ. ಪಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸತ್ಯಂ ವದ ಧರ್ಮಂ ಚರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳವರು ಶ್ರೀ ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗಿ ಶ್ರೀ ವಿದ್ಯಾತೀರ್ಥ</title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0032</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶಾಸ್ತ್ರೀ ಲ. ನ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಶ್ರೀ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶ</title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0034</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿಭಟ್ಟ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸುಮತಿ</title>
 				<feature></feature>
-				<page></page>
+				<page>0035-0040</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಲಕ್ಷ್ಮೀನರಸಿಂಹಶಾಸ್ತ್ರಿ ಕೈ. ಪು.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಜಗದ್ಗುರುಗಳವರ ಕೇರಳರಾಜ್ಯ ವಿಜಯಯಾತ್ರಾ</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0049</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶರ್ಮ ಜಿ. ಕೆ. ಶ್ರೀ</author>
+					<author type="2" title="">ಹರಿಹರನ್ ಪಿ. ಆರ್. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಆರ್ಯಾದಶಕ ಸ್ತೋತ್ರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0050-0052</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪಂಡಿತ">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಪಿ. ಎಸ್. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="" year="" maasa="ಫಾಲ್ಗುಣ" samvatsara="ಸಿದ್ಧಾರ್ಥಿ">
+			<entry>
+				<title>ಶ್ರೀಶಾರದಾಪ್ರಾಸಸ್ತುತಿಃ</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಶ್ರೀ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿಭಟ್ಟ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗಸೂತ್ರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0005-0012</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಂಕರಶಾಸ್ತ್ರೀ ಕೆ. ಪಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗುರುವಂಶಕಾವ್ಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0013-0020</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಕಾಶಿ ಲಕ್ಷ್ಮಣಶಾಸ್ತ್ರೀ</author>
+					<author type="2" title="">ವೆಂಕಣ್ಣಯ್ಯ ಟಿ. ಎಸ್. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗಿವಿದ್ಯಾತೀರ್ಥ</title>
 				<feature></feature>
-				<page></page>
+				<page>0021-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶಾಸ್ತ್ರೀ ಲ. ನ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶ್ರೀಗಳವರ ವಿಜಯಯಾತ್ರೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0036</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶರ್ಮಾ ಜಿ. ಕೆ. ಶ್ರೀ</author>
+					<author type="2" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿಭಟ್ಟ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸತ್ಯಂ ವದ ಧರ್ಮಂ ಚರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0037-0048</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳವರು ಶ್ರೀ ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶಂಕರಜಯಂತಿ ಕಾರ್ಯಕ್ರಮ</title>
 				<feature></feature>
 				<page></page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="07" month="" year="" maasa="ಚೈತ್ರ" samvatsara="ರೌದ್ರಿ">
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾಪ್ರಾಸಸ್ತುತಿಃ</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಶ್ರೀ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0002-0004</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿಭಟ್ಟ ಬಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಧುರೆಯಲ್ಲಿ ನಡೆದ ಮೂರ್ತಿಪ್ರತಿಷ್ಠಾ ವಿಚಾರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0005-0006</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶರ್ಮಾ ಜಿ. ಕೆ.</author>
+					<author type="2" title="">ಹರಿಹರನ್ ಪಿ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಭಕ್ತ ಕುಸುಮಾಂಜಲಿ</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0008</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ವಿರೂಪಾಕ್ಷಭಟ್ಟ ಬಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗಸೂತ್ರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0016</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಂಕರಶಾಸ್ತ್ರೀ ಕೆ. ಪಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗುರುವಂಶಕಾವ್ಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಕಾಶಿ ಲಕ್ಷ್ಮಣಶಾಸ್ತ್ರೀ</author>
+					<author type="2" title="">ವೆಂಕಣ್ಣಯ್ಯ ಟಿ. ಎಸ್. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಜಗದ್ಗುರುಗಳವರ ಶಬರಿಮಲೈ ವಿಜಯಯಾತ್ರೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0026</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶರ್ಮಾ ಜಿ. ಕೆ.</author>
+					<author type="2" title="ಪಂಡಿತ">ಸುಬ್ರಹ್ಮಣ್ಯಶಾಸ್ತ್ರಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮೈಸೂರಿನಲ್ಲಿ ಶ್ರೀ ಶಾರದಾ ಪ್ರತಿಷ್ಠಾ ವಿಚಾರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0027-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾ ಅಷ್ಟೋತ್ತರ</title>
+				<feature></feature>
+				<page>0029-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ ಅಷ್ಟೋತ್ತರ</title>
+				<feature></feature>
+				<page>0033-0036</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಸಚ್ಚಿದಾನಂದ ಶಿವಾಭಿನವ ನೃಸಿಂಹಭಾರತಿಯವರ ಅಷ್ಟೋತ್ತರ</title>
+				<feature></feature>
+				<page>0037-0043</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="11" month="" year="" maasa="ಶ್ರಾವಣ" samvatsara="ರೌದ್ರಿ">
+			<entry>
+				<title>ಶ್ರೀಶಾರದಾಪ್ರಾಸಸ್ತುತಿಃ</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಶ್ರೀ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶ ಭಾಷಣ</title>
+				<feature></feature>
+				<page>0002-0008</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿಭಟ್ಟ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ದಾರ್ಶನಿಕರ ದೃಷ್ಟಿಯಲ್ಲಿ - ವಾಕ್ಯವಾಕ್ಯಾರ್ಥ</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0020</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗುರುವಂಶಕಾವ್ಯ</title>
+				<feature></feature>
+				<page>0021-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಕಾಶಿ ಲಕ್ಷ್ಮಣಶಾಸ್ತ್ರೀ</author>
+					<author type="2" title="">ವೆಂಕಣ್ಣಯ್ಯ ಟಿ. ಎಸ್. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗಸೂತ್ರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0040</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಂಕರಶಾಸ್ತ್ರೀ ಕೆ. ಪಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ವಿದ್ಯಾತೀರ್ಥಹೃದಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0048-</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಉಮೇಶರ ಶ್ರೀ</author>
+					<author type="2" title="">ಚಂದ್ರಶೇಖರ ಹು. ಲ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="" year="" maasa="ಭಾದ್ರಪದ" samvatsara="ರೌದ್ರಿ">
+			<entry>
+				<title>ಶ್ರೀಶಾರದಾಪ್ರಾಸಸ್ತುತಿಃ</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಶ್ರೀ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶ ಭಾಷಣ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿಭಟ್ಟ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗುರುವಂಶಕಾವ್ಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0003-0010</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಕಾಶಿ ಲಕ್ಷ್ಮಣಶಾಸ್ತ್ರೀ</author>
+					<author type="2" title="">ವೆಂಕಣ್ಣಯ್ಯ ಟಿ. ಎಸ್. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗಿವಿದ್ಯಾತೀರ್ಥ</title>
 				<feature></feature>
-				<page></page>
+				<page>0011-0020</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶಾಸ್ತ್ರಿ ಲ. ನ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗಸೂತ್ರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0021-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಂಕರಶಾಸ್ತ್ರೀ ಕೆ. ಪಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀಮಚ್ಛಂಕರಭಗವತ್ಪಾದರವರ ಉಪದೇಶ</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0036</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ರಾಮಭುಜಂಗಂ</title>
 				<feature></feature>
-				<page></page>
+				<page>0037-00</page>
 				<allauthors>
+					<author type="1" title="">ಶ್ರೀಜಗದ್ಗುರು ಶೃಂಗೇರಿ ಶ್ರೀಸಚ್ಚಿದಾನಂದ ಭಾರತೀಸ್ವಾಮಿ</author>
 					<author type="1" title=""></author>
 				</allauthors>
 			</entry>
+		</part>
 			<entry>
 				<title></title>
 				<feature></feature>
