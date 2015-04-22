@@ -6874,7 +6874,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="13" month="" year="" maasa="ಆಶ್ವಯುಜ" samvatsara="ದುಂದುಭಿ">
+		<part pnum="13" month="10" year="1982" maasa="ಆಶ್ವಯುಜ" samvatsara="ದುಂದುಭಿ">
 			<entry>
 				<title>ಪಾದಾವಲಂಬನಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -6951,7 +6951,7 @@
 		</part>
 	</volume>
 	<volume vnum="18">
-		<part pnum="03" month="" year="" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ದುಂದುಭಿ">
+		<part pnum="03" month="12" year="1982" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ದುಂದುಭಿ">
 			<entry>
 				<title>ಪದಾವಲಂಬನ ಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -7032,7 +7032,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="" year="" maasa="ಪುಷ್ಯ - ಮಾಘ" samvatsara="ದುಂದುಭಿ">
+		<part pnum="04" month="01" year="1983" maasa="ಪುಷ್ಯ - ಮಾಘ" samvatsara="ದುಂದುಭಿ">
 			<entry>
 				<title>ಪದಾವಲಂಬನ ಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -7093,7 +7093,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="05" month="" year="" maasa="ಅಧಿಕ ಫಾಲ್ಗುಣ" samvatsara="ದುಂದುಭಿ">
+		<part pnum="05" month="02" year="1983" maasa="ಅಧಿಕ ಫಾಲ್ಗುಣ" samvatsara="ದುಂದುಭಿ">
 			<entry>
 				<title>ಪದಾವಲಂಬನ ಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -7160,7 +7160,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="06" month="" year="" maasa="ಫಾಲ್ಗುಣ" samvatsara="ದುಂದುಭಿ">
+		<part pnum="06" month="03" year="1983" maasa="ಫಾಲ್ಗುಣ" samvatsara="ದುಂದುಭಿ">
 			<entry>
 				<title>ಪದಾವಲಂಬನ ಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -7227,7 +7227,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="07" month="" year="" maasa="ಚೈತ್ರ" samvatsara="ರುಧಿರೋದ್ಗಾರಿ">
+		<part pnum="07" month="04" year="1983" maasa="ಚೈತ್ರ" samvatsara="ರುಧಿರೋದ್ಗಾರಿ">
 			<entry>
 				<title>ಶ್ರೀ ಶಾರದಾಗೀತಂ</title>
 				<feature></feature>
@@ -7297,7 +7297,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="09" month="" year="" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ರುಧಿರೋದ್ಗಾರಿ">
+		<part pnum="09" month="06" year="1983" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ರುಧಿರೋದ್ಗಾರಿ">
 			<entry>
 				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಶಾರದಾಂಬಾ ಧ್ಯಾನಂ</title>
 				<feature></feature>
@@ -7359,87 +7359,3677 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="10" month="" year="" maasa="ಆಷಾಢ" samvatsara="ರುಧಿರೋದ್ಗಾರಿ">
+		<part pnum="10" month="07" year="1983" maasa="ಆಷಾಢ" samvatsara="ರುಧಿರೋದ್ಗಾರಿ">
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಲಕ್ಷ್ಮೀಸ್ತುತಿಃ</title>
 				<feature></feature>
-				<page></page>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸ್ವಾಗತ ಪಡ್ಯಮಾಲಾ</title>
+				<feature></feature>
+				<page>0007-0008f</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಅಶ್ವತ್ಥ ನಾರಾಯಣಶಾಸ್ತ್ರೀ ಟಿ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅಂಬಾಷ್ಟಕಂ</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0016</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶ್ರೀಮದಾಚಾರ್ಯ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರಭಾರತೀ</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಶ್ರೀ</author>
+					<author type="2" title="">ವಿಜಯ ಕುಮಾರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸಂಸ್ಕೃತಿ ಪ್ರಚಾರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಸಾಮಕ ಗಣೇಶಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸ್ತೋತ್ರಾಣಿ</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0034</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="11" month="08" year="1983" maasa="ಶ್ರಾವಣ" samvatsara="ರುಧಿರೋದ್ಗಾರಿ">
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾಸ್ತುತಿಃ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರಭಾರತೀ</title>
+				<feature></feature>
+				<page>0007-0014</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಶ್ರೀ</author>
+					<author type="2" title="">ವಿಜಯ ಕುಮಾರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅಭಿನವಶಂಕರಾಲಯ (ವರದಿ)</title>
 				<feature></feature>
-				<page></page>
+				<page>0015-0016</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ರಂಗನಾಥನ್ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮನವಿ</title>
 				<feature></feature>
-				<page></page>
+				<page>0016a-0016I</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕಲ್ಯಾಣವೃಷ್ಟಿಸ್ತವಃ</title>
+				<feature></feature>
+				<page>0016m-0016o</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಲಲಿತಾಪಂಚರತ್ನಂ</title>
+				<feature></feature>
+				<page>0016p-0016p</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶಂಕರಚಾರ್ಯ ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯಜ್ಞೋಪವೀತ</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0019</page>
 				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ರಾವ್ ಹೆಚ್. ಕೆ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 		</part>
+		<part pnum="12" month="09" year="1983" maasa="ಭಾದ್ರಪದ" samvatsara="ರುಧಿರೋದ್ಗಾರಿ">
+			<entry>
+				<title>ರತ್ನಗಣಪತಿಧಾನಂ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0006-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಯಜ್ಞೋಪವೀತಧಾರಣೆ</title>
+				<feature></feature>
+				<page>0009-0011</page>
+				<allauthors>
+					<author type="1" title="">ರಾವ್ ಹೆಚ್. ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಚಂದ್ರಶೇಖರ ಭಾರತೀ</title>
+				<feature></feature>
+				<page>0012-0019</page>
+				<allauthors>
+					<author type="1" title="">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಶ್ರೀ</author>
+					<author type="2" title="">ವಿಜಯ ಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಾಣಾಯಾಮ ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರ</title>
+				<feature></feature>
+				<page>0020-0024</page>
+				<allauthors>
+					<author type="1" title="">ರಾಮಭಟ್ ವಿ. ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉದಾತ್ತ ನಾಯಕ</title>
+				<feature></feature>
+				<page>0025-0032</page>
+				<allauthors>
+					<author type="1" title="ಕುಮಾರಿ">ವಿಮಲ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಸ್ಕೃತಿ ಪ್ರಚಾರ</title>
+				<feature></feature>
+				<page>0033-0036</page>
+				<allauthors>
+					<author type="1" title="">ಸಾಮಕ ಗಣೇಶಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿಯಲ್ಲಿ ನಡೆಯುವ ನವರಾತ್ರಿ ಸಮಾರಂಭದ ವಿಷಯ</title>
+				<feature></feature>
+				<page>0037-0040</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="19">
+		<part pnum="01" month="10" year="1983" maasa="ಆಶ್ವಯುಜ" samvatsara="ರುಧಿರೋದ್ಗಾರಿ">
+			<entry>
+				<title>ದುರ್ಗಾ ಧ್ಯಾನ ಶ್ಲೋಕ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0004h</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಂಸ್ಕೃತಿ ಪ್ರಚಾರ</title>
+				<feature></feature>
+				<page>0005-0012</page>
+				<allauthors>
+					<author type="1" title="">ಸಾಮಕ ಗಣೇಶಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿಯಲ್ಲಿ ಶರನ್ನವರಾತ್ರಿ ಕಾರ್ಯಕ್ರಮ</title>
+				<feature></feature>
+				<page>0013-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ದುರ್ಗಾಸೂಕ್ತ ಮಹಿಮೆ</title>
+				<feature></feature>
+				<page>0017-0024</page>
+				<allauthors>
+					<author type="1" title="">ರಂಗನಾಥನ್ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದುರ್ಗಾಶಪ್ತಸತಿಯ ವಿಶಿಷ್ಟತೆ</title>
+				<feature></feature>
+				<page>0025-0032</page>
+				<allauthors>
+					<author type="1" title="">ಅಭಿನವ ವಿದ್ಯಾತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳು ಶ್ರೀ</author>
+					<author type="2" title="">ಮೋಕ್ಷಗುಂಡಂ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಶರ್ಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೆಂಗಳೂರಿನಲ್ಲಿ ನಡೆದ ಗಣಪತಿ ವಾಕ್ಯಾರ್ಥ ಸಭೆ ವೃತ್ತಾಂತ</title>
+				<feature></feature>
+				<page>0033-0035</page>
+				<allauthors>
+					<author type="1" title="ಬ್ರ|| ಶ್ರೀ|| ಪಂಡಿತಪ್ರವರ ವಿದ್ವಾನ್">ರಾಮಚಂದ್ರ ಸೋಮಯಾಜಿ ಕೆ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="01" year="1984" maasa="ಪುಷ್ಯ" samvatsara="ರುಧಿರೋದ್ಗಾರಿ">
+			<entry>
+				<title>ದಕ್ಷಿಣಾಮೂರ್ತಿ ವಂದನೆ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0005-0022</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ</title>
+				<feature></feature>
+				<page>0023-0028</page>
+				<allauthors>
+					<author type="1" title="">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಶ್ರೀ</author>
+					<author type="2" title="">ವಿಜಯ ಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" month="04" year="1984" maasa="ಚೈತ್ರ" samvatsara="ರಕ್ತಾಕ್ಷಿ">
+			<entry>
+				<title>ಶ್ರೀ ಸರಸ್ವತೀ ಧ್ಯಾನಂ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0005-0020</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಸನ್ನಿಧಾನಂಗಳವರ ಚೈತ್ರಯಾತ್ರೆ</title>
+				<feature></feature>
+				<page>0021-0023</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಸನ್ನಿಧಾನಂಗಳವರಿಗೆ ಬೊಂಬಾಯಿಯಲ್ಲಿ ಸಂಸ್ಕೃತದಲ್ಲಿ ಸಲ್ಲಿಸಿದ ಸ್ವಾಗತ ಪತ್ರಿಕೆ</title>
+				<feature></feature>
+				<page>0024-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತಿ</title>
+				<feature></feature>
+				<page>0029-0035</page>
+				<allauthors>
+					<author type="1" title="">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಶ್ರೀ</author>
+					<author type="2" title="">ವಿಜಯ ಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="06" year="1984" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ರಕ್ತಾಕ್ಷಿ">
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾ ಭುಜಂಗ ಪ್ರಯಾತ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತಿ</title>
+				<feature></feature>
+				<page>0005-0016</page>
+				<allauthors>
+					<author type="1" title="">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಶ್ರೀ</author>
+					<author type="2" title="">ವಿಜಯ ಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಅಭಿನವ ವಿದ್ಯಾತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0017-0037</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರ ವಿಜಯ ಯಾತ್ರೆ (ವರದಿ)</title>
+				<feature></feature>
+				<page>0038-0042</page>
+				<allauthors>
+					<author type="1" title="">ಸುಂದರೇಶನ್ ಎಂ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="08" year="1984" maasa="ಶ್ರಾವಣ" samvatsara="ರಕ್ತಾಕ್ಷಿ">
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾ ಭುಜಂಗ ಪ್ರಯಾತ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಭಿಲಾಷಾಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0007-0010</page>
+				<allauthors>
+					<author type="1" title="ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಶ್ರೀ ವಿದ್ಯಾತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0011-0026</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಾಣಾಯಾಮ ಸಾಕ್ಷಾತ್ಕಾರ</title>
+				<feature></feature>
+				<page>0027-0032</page>
+				<allauthors>
+					<author type="1" title="">ರಾಮಭಟ್ ವಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="09" year="1984" maasa="ಭಾದ್ರಪದ" samvatsara="ರಕ್ತಾಕ್ಷಿ">
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾ ಭುಜಂಗ ಪ್ರಯಾತ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಭಿಲಾಷಾಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0005-0012</page>
+				<allauthors>
+					<author type="1" title="ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0013-0028</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿಯಲ್ಲಿ ಶರನವರಾತ್ರಿ ಉತ್ಸವದ ವಿವರ</title>
+				<feature></feature>
+				<page>0029-0038</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="20">
+		<part pnum="05" month="02" year="1985" maasa="ಮಾಘ" samvatsara="ರಕ್ತಾಕ್ಷಿ">
+			<entry>
+				<title>ಶ್ರೀ ಲಲಿತಾ ಪ್ರಾತಃಸ್ಮರಣ ಪಂಚರತ್ನಂ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0005-0017</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೇವೇಲಿಂಗಂ ಮಲಹಾನೀಶಂ</title>
+				<feature></feature>
+				<page>0018-0018</page>
+				<allauthors>
+					<author type="1" title="">ಬಾಲಗಣಪತಿಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಚಂದ್ರಶೇಖರಭಾರತಿ</title>
+				<feature></feature>
+				<page>0019-0026</page>
+				<allauthors>
+					<author type="1" title="">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಶ್ರೀ</author>
+					<author type="2" title="">ವಿಜಯ ಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" month="04" year="1985" maasa="ಚೈತ್ರ" samvatsara="ಕ್ರೋಧನ">
+			<entry>
+				<title>ಶ್ರೀ ರಾಜರಾಜೇಶ್ವರಿ ಷಟ್ಕ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ರಾಧ ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಂಸಾರ ಮೋಕ್ಷಣ</title>
+				<feature></feature>
+				<page>0007-0008</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕುಂಭಾಭಿಷೇಕ ಕಾರ್ಯಕ್ರಮದ ಒಂದು ಪಾರ್ಶ್ವನೋಟ</title>
+				<feature></feature>
+				<page>0009-0014</page>
+				<allauthors>
+					<author type="1" title="">ರಾಜ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0015-0022</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಕ್ತಿ ಸುಧಾತರಂಗಿಣೀ</title>
+				<feature></feature>
+				<page>0023-0046</page>
+				<allauthors>
+					<author type="2" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="08" month="05" year="1985" maasa="ವೈಶಾಖ" samvatsara="ಕ್ರೋಧನ">
+			<entry>
+				<title>ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆರ್ಯಾಸಾಹಸ್ರೀ</title>
+				<feature></feature>
+				<page>0007-0014</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ವೆಂಕಟರಾಮಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರು ಚಂದ್ರಶೇಖರ ಭಾರತೀ</title>
+				<feature></feature>
+				<page>0015-0020</page>
+				<allauthors>
+					<author type="1" title="">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಶ್ರೀ</author>
+					<author type="2" title="">ವಿಜಯ ಕುಮಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0021-0029</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಂಕರ ಭಾರತೀ</title>
+				<feature></feature>
+				<page>0030-0030</page>
+				<allauthors>
+					<author type="1" title="">ಬಾಲಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="06" year="1985" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ಕ್ರೋಧನ">
+			<entry>
+				<title>ಶ್ರೀ ಗಣಾಧಿಪ ಸ್ತುತಿ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಿಚಾರ ಲಹರಿ</title>
+				<feature></feature>
+				<page>0007-0010</page>
+				<allauthors>
+					<author type="1" title="">ಬಂದ ಗದ್ದೆ ಕೃಷ್ಣಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಾಣಾಯಾಮ ಸಾಕ್ಷಾತ್ಕಾರ</title>
+				<feature></feature>
+				<page>0011-0013</page>
+				<allauthors>
+					<author type="1" title="">ರಾಮಭಟ್ಟ ವಿ. ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಂಕರ ಭಾರತೀ</title>
+				<feature></feature>
+				<page>0014-0015</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆರ್ಯಸಾಹಸ್ರೀ</title>
+				<feature></feature>
+				<page>0016-0025</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ವೆಂಕಟರಾಮಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0026-0032</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಗನ್ಮಾನ್ಯ ಮಹಾತ್ಮ ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0033-0037</page>
+				<allauthors>
+					<author type="1" title="">ವಿರೂಪಾಕ್ಷಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಹಾಗಣಪತಿ ಸಹಸ್ರನಾಮಾವಳಿ</title>
+				<feature></feature>
+				<page>0038-0040</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="08" year="1985" maasa="ಶ್ರಾವಣ" samvatsara="ಕ್ರೋಧನ">
+			<entry>
+				<title>ಅಘೋರೇಶ್ವರ ಸ್ತುತಿ ಕುಸುಮಾಂಜಲಿಃ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಕವಿ ವಿದ್ವಾನ್">ಭಾಸ್ಕರ ಭಟ್ಟ ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>'ರಾಮನಾಮದ ಮಹಿಮೆ'</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title="">ರವೀಶ ಎನ್. ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೇಯಸ್ಸಿಗೆ ದಾರಿ (ಶಾಂಕರಭಾರತೀ)</title>
+				<feature></feature>
+				<page>0007-0008</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೋಲಿನಲ್ಲೂ ಗೆಲುವು</title>
+				<feature></feature>
+				<page>0009-0014</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಸತ್ಯನಾರಾಯಣ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದರು ಮತ್ತು ಅವರ ಕೃತಿಭಾಷ್ಯ</title>
+				<feature></feature>
+				<page>0015-0020</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನಾರಾಯಣಭಟ್ಟ ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗಣೇಶ ಸಹಸ್ರನಾಮಾವಳಿ</title>
+				<feature></feature>
+				<page>0021-0026</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0027-0036</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="09" year="1985" maasa="ಶ್ರಾವಣ" samvatsara="ಕ್ರೋಧನ">
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾ ಮಹಿನ್ಮ ಸ್ತವಃ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಂಕಲ್ಪವೇ ಸಿದ್ಧಿ</title>
+				<feature></feature>
+				<page>0005-0011</page>
+				<allauthors>
+					<author type="1" title="">ಗೀತಾ ಮನೋಹರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತಿ ಸ್ವಾಮಿಗಳವರ ಅನುಗ್ರಹ ಭಾಷಣ</title>
+				<feature></feature>
+				<page>0012-0013</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ ವಿರಚಿತ ಚರ್ಪಟಪಂಜರಿಕಾ ಸ್ತೋತ್ರ (ಕನ್ನಡ ಅನುವಾದ)</title>
+				<feature></feature>
+				<page>0014-0015</page>
+				<allauthors>
+					<author type="2" title="">ಲಕ್ಷ್ಮಣ ವಿರೂಪಾಕ್ಷ ಜೋಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಭಿನವ ಶಂಕರಾಲಯ (ವರದಿ)</title>
+				<feature></feature>
+				<page>0016-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0017-0029</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="21">
+		<part pnum="04" month="02" year="1986" maasa="ಮಾಘ" samvatsara="ಕ್ರೋಧನ">
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0007-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮುಹೂರ್ತ</title>
+				<feature></feature>
+				<page>0013-0020</page>
+				<allauthors>
+					<author type="1" title="">ರಾವ್ ಎಚ್. ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂವಾದಗಳು</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author type="1" title="">ಕೃಷ್ಣಸ್ವಾಮಿ ಅಯ್ಯರ್ ಆರ್. ಶ್ರೀ</author>
+					<author type="2" title="">ಚಂದ್ರಶೇಖರ ಹು. ಲ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶ್ನೆ-ಉತ್ತರ</title>
+				<feature></feature>
+				<page>0025-0026</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗಣೇಶ ಸಹಸ್ರನಾಮಾವಳಿ</title>
+				<feature></feature>
+				<page>0027-0030</page>
+				<allauthors>
+					<author type="1" title="">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0031-0039</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಶಾರದಾ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮ</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="03" year="1986" maasa="ಫಾಲ್ಗುಣ" samvatsara="ಕ್ರೋಧನ">
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮಾವಿನ ತೋರಣ</title>
+				<feature></feature>
+				<page>0007-0012</page>
+				<allauthors>
+					<author type="1" title="">ರಾವ್ ಎಚ್. ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ದರ್ಶನಾನುಸಾರೇಣ ಜಗತ್ ಸೃಷ್ಟಿ</title>
+				<feature></feature>
+				<page>0013-0023</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್ ವೇ|| ಬ್ರಂ||">ಶಂಕರಶಾಸ್ತ್ರಿ ಕೆ. ಪಿ. ಶ್ರೀ</author>
+					<author type="2" title="">ಕಸ್ತೂರಿ ರಂಗರಾಜನ್ ಎಂ. ಎ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶ್ನೆ-ಉತ್ತರ</title>
+				<feature></feature>
+				<page>0024-0025</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗಣೇಶ ಸಹಸ್ರನಾಮಾವಳಿ</title>
+				<feature></feature>
+				<page>0026-0029</page>
+				<allauthors>
+					<author type="1" title="">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂವಾದಗಳು</title>
+				<feature></feature>
+				<page>0030-0033</page>
+				<allauthors>
+					<author type="1" title="">ಕೃಷ್ಣಸ್ವಾಮಿ ಅಯ್ಯರ್ ಆರ್. ಶ್ರೀ</author>
+					<author type="2" title="">ಚಂದ್ರಶೇಖರ ಹು. ಲ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊಲ್ಲೂರು ಮೂಕಾಂಬಿಕಾ ಕ್ಷೇತ್ರದಲ್ಲಿ ಶೃಂಗೇರಿ ಶಂಕರ ಮಠಕ್ಕೆ ಶಿಲಾನ್ಯಾಸ</title>
+				<feature></feature>
+				<page>0034-0040</page>
+				<allauthors>
+					<author type="1" title="">ನರಸಿಂಹಮೂರ್ತಿ ಎಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0041-0044</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="08" month="05" year="1986" maasa="ವೈಶಾಖ" samvatsara="ಅಕ್ಷಯ">
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾ ಚತುಷಷ್ಟಿಃ</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0006-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಾಕಂಬರ್ಯಷ್ಟೋತ್ತರ ಶತನಾಮ ಸ್ತೋತ್ರಮ್</title>
+				<feature></feature>
+				<page>0009-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ವಿಷ್ಣು ಸಹಸ್ರನಾಮದತಿಶಯತೆ</title>
+				<feature></feature>
+				<page>0011-0019</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶ್ನೆ-ಉತ್ತರ</title>
+				<feature></feature>
+				<page>0020-0020</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗಣೇಶ ಸಹಸ್ರನಾಮಾವಳಿ</title>
+				<feature></feature>
+				<page>0021-0023</page>
+				<allauthors>
+					<author type="1" title="">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0024-0031</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂವಾದಗಳು</title>
+				<feature></feature>
+				<page>0032-0036</page>
+				<allauthors>
+					<author type="1" title="">ಕೃಷ್ಣಸ್ವಾಮಿ ಅಯ್ಯರ್ ಆರ್. ಶ್ರೀ</author>
+					<author type="2" title="">ಚಂದ್ರಶೇಖರ ಹು. ಲ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈಜ್ಞಾನಿಕ ದೃಷ್ಟಿ ಮತ್ತು ಶಾಸ್ತ್ರದ ದೃಷ್ಟಿ</title>
+				<feature></feature>
+				<page>0037-0038</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="06" year="1986" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ಅಕ್ಷಯ">
+			<entry>
+				<title>ಶ್ರೀ ವಾಣಿಪಾಣ್ಯಾವಲಂಬಸ್ತುತಿಃ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="1" title="ಕವಿ">ನರಸಿಂಹ ಶರ್ಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಆರ್ಯಾಂಬ ಮಾತೃಸ್ತವಃ</title>
+				<feature></feature>
+				<page>0006-0012</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುವಂದನೆ</title>
+				<feature></feature>
+				<page>0013-0014</page>
+				<allauthors>
+					<author type="1" title="">ಅನಂತರಾಮು ರಾ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂವಾದಗಳು</title>
+				<feature></feature>
+				<page>0015-0021</page>
+				<allauthors>
+					<author type="1" title="">ಕೃಷ್ಣಸ್ವಾಮಿ ಅಯ್ಯರ್ ಆರ್. ಶ್ರೀ</author>
+					<author type="2" title="">ಚಂದ್ರಶೇಖರ ಹು. ಲ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾಗವತೋತ್ತಮನಾರು</title>
+				<feature></feature>
+				<page>0022-0026</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗಣೇಶ ಸಹಸ್ರನಾಮಾವಳಿ</title>
+				<feature></feature>
+				<page>0027-0029</page>
+				<allauthors>
+					<author type="1" title="">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನವಗ್ರಹಗಳ ಪ್ರಭಾವ</title>
+				<feature></feature>
+				<page>0030-0033</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ವೆಂಕಟರಾವ್ ಹೆಚ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಕ್ಷಿಣಕನ್ನಡದಲ್ಲಿ ಶ್ರೀ ಶಂಕರ ಜಯಂತ್ಯುತ್ಸವ</title>
+				<feature></feature>
+				<page>0034-0035</page>
+				<allauthors>
+					<author type="1" title="">ನರಸಿಂಹಮೂರ್ತಿ ಎಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶ್ನೆ-ಉತ್ತರ</title>
+				<feature></feature>
+				<page>0036-0036</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0037-0043</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="07" year="1986" maasa="ಆಷಾಢ" samvatsara="ಅಕ್ಷಯ">
+			<entry>
+				<title>ಶ್ರೀ ವಾಣಿಪಾಣ್ಯಾವಲಂಬಸ್ತುತಿಃ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author type="1" title="ಕವಿ">ನರಸಿಂಹ ಶರ್ಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರ ಕಥಾಸಾರ</title>
+				<feature></feature>
+				<page>0004-0006</page>
+				<allauthors>
+					<author type="1" title="">ಗುಂಡಪ್ಪ ಎಲ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನವಗ್ರಹಗಳ ಪ್ರಭಾವ</title>
+				<feature></feature>
+				<page>0007-0009</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ವೆಂಕಟರಾವ್ ಹೆಚ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಚ್ಛ್ರದ್ಧೆ</title>
+				<feature></feature>
+				<page>0010-0015</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0016-0016</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗಣೇಶ ಸಹಸ್ರನಾಮಾವಳಿ</title>
+				<feature></feature>
+				<page>0025-0028</page>
+				<allauthors>
+					<author type="1" title="">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂವಾದಗಳು</title>
+				<feature></feature>
+				<page>0029-0035</page>
+				<allauthors>
+					<author type="1" title="">ಕೃಷ್ಣಸ್ವಾಮಿ ಅಯ್ಯರ್ ಆರ್. ಶ್ರೀ</author>
+					<author type="2" title="">ಚಂದ್ರಶೇಖರ ಹು. ಲ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶ್ನೆ-ಉತ್ತರ</title>
+				<feature></feature>
+				<page>0036-0036</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಾಮಾಯಣ ಕಾಲದಲ್ಲಿ ವಿಜ್ಞಾನ</title>
+				<feature></feature>
+				<page>0037-0041</page>
+				<allauthors>
+					<author type="1" title="">ರಾವ್ ಎಚ್. ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="08" year="1986" maasa="ಶ್ರಾವಣ" samvatsara="ಅಕ್ಷಯ">
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾ ಚತುಷಷ್ಟಿಃ</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0007-0014</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಜ್ಞೋಪವೀತ</title>
+				<feature></feature>
+				<page>0015-0022</page>
+				<allauthors>
+					<author type="1" title="">ಲಕ್ಷ್ಮೀರವಸಿಂಹಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿಳಿವು</title>
+				<feature></feature>
+				<page>0023-0025</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗಣೇಶ ಸಹಸ್ರನಾಮಾವಳಿ</title>
+				<feature></feature>
+				<page>0026-0028</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶ್ನೆ-ಉತ್ತರ</title>
+				<feature></feature>
+				<page>0029-0029</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿ ಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂವಾದಗಳು</title>
+				<feature></feature>
+				<page>0030-0033</page>
+				<allauthors>
+					<author type="1" title="">ಕೃಷ್ಣಸ್ವಾಮಿ ಅಯ್ಯರ್ ಆರ್. ಶ್ರೀ</author>
+					<author type="2" title="">ಚಂದ್ರಶೇಖರ ಹು. ಲ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರರ ಚರಿತ್ರೆ</title>
+				<feature></feature>
+				<page>0034-0037</page>
+				<allauthors>
+					<author type="1" title="">ಗುಂಡಪ್ಪ ಎಲ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಕ್ಷತೆ</title>
+				<feature></feature>
+				<page>0038-0041</page>
+				<allauthors>
+					<author type="1" title="">ರಾವ್ ಎಚ್. ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಕಾಶಕರ ಬಿನ್ನಹ</title>
+				<feature></feature>
+				<page>0042-0042</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="12" month="09" year="1986" maasa="ಭಾದ್ರಪದ" samvatsara="ಅಕ್ಷಯ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author type="1" title="">ಸಂಪಾದಕರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀವಾಣ್ಯುತ್ಕುರ್ಷಮಂಜರಿ</title>
+				<feature></feature>
+				<page>0004-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನಮ್ಮ ಲಕ್ಷ್ಯ -ಶ್ರೀಚಂದ್ರಶೇಖರಭಾರತೀ ಸ್ವಾಮಿಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0009-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮನುಷ್ಯ ಜನ್ಮ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಅದರ ಕರ್ತವ್ಯ</title>
+				<feature></feature>
+				<page>0011-0015</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್ ಬ್ರ||">ಶಂಕರಶಾಸ್ತ್ರಿ ಕೆ. ಪಿ. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶುಭಾಶಂಸ ರತ್ನಮಾಲಿಕಾ</title>
+				<feature></feature>
+				<page>0016-0016</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಸಾಮಗ ಗಣೇಶ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರೈಕ್ವ</title>
+				<feature></feature>
+				<page>0017-0020</page>
+				<allauthors>
+					<author type="1" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರಿ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರಚರಿತ್ರೆ</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author type="1" title="">ಗುಂಡಪ್ಪ ಎಲ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಈ ಪ್ರಾರ್ಥನೆ ಕೆಟ್ಟಿದ್ದೆ ?</title>
+				<feature></feature>
+				<page>0025-0029</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಬಾಲಗಣಪತಿಭಟ್ಟ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಧ್ಯಾವಂದನ ಮತ್ತು ದೇವತಾರ್ಚನೆ ಮಹತ್ವ</title>
+				<feature></feature>
+				<page>0030-0033</page>
+				<allauthors>
+					<author type="1" title="">ರಾವ್ ಹೆಚ್. ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂವಾದಗಳು</title>
+				<feature></feature>
+				<page>0034-0037</page>
+				<allauthors>
+					<author type="1" title="">ಕೃಷ್ಣಸ್ವಾಮಿ ಅಯ್ಯರ್ ಆರ್. ಶ್ರೀ</author>
+					<author type="2" title="">ಚಂದ್ರಶೇಖರ ಹು. ಲ.</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="22">
+		<part pnum="04" month="01" year="1987" maasa="ಪುಷ್ಯ" samvatsara="ಅಕ್ಷಯ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature></feature>
+				<page>0004-0006</page>
+				<allauthors>
+					<author type="1" title="">ಸಂಪಾದಕರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾಭುಜಂಗಪ್ರಯಾತಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0007-0014</page>
+				<allauthors>
+					<author type="2" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0015-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0018-0021</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೇದಾಂತ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0022-0031</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಕ್ತಿಂ ಪರಾಂ ದೇಹಿ</title>
+				<feature></feature>
+				<page>0032-0038</page>
+				<allauthors>
+					<author type="1" title="ಸೌ||">ಶ್ರೀಮತೀ ಡಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುಂದರಕಾಂಡ-ಶೀರ್ಷಿಕೆಯ ಔಚಿತ್ಯ</title>
+				<feature></feature>
+				<page>0039-0044</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥ್ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>"ಮಾಯಾಮಾತ್ರಂ" ಎಂಬ ಶೃತ್ಯರ್ಥ ವಿಚಾರ</title>
+				<feature></feature>
+				<page>0045-0050</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರಿ ಸೂರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರಚರಿತೆ</title>
+				<feature></feature>
+				<page>0051-0056</page>
+				<allauthors>
+					<author type="1" title="ದಿ||">ಗುಂಡಪ್ಪ ಎಲ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಷಸ್ತಿಚಾಕ್ರಾಯಣ</title>
+				<feature></feature>
+				<page>0057-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಶಂಕರಾಚಾರ್ಯರಿಗೆ</title>
+				<feature></feature>
+				<page>0060-0061</page>
+				<allauthors>
+					<author type="1" title="">ಲಕ್ಷ್ಮಣ ವಿರೂಪಾಕ್ಷಜೋಷಿ ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿದ್ವಜ್ಜನರ ಅವಗಾಹನೆಗೆ</title>
+				<feature></feature>
+				<page>0062-0062</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರಿ ಸೂರಿ</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="0" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
 	</volume>
 </shankara_krupa>
