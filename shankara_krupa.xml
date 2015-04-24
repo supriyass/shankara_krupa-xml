@@ -9685,31 +9685,29 @@
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0000e-0000f</page>
 				<allauthors>
 					<author type="1" title=""></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಸುಖ</title>
+				<title>ಸುಖ-ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0001-0002</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title>ಸದ್ಗುರುವಿನ ಲಕ್ಷಣ</title>
+				<title>ಸದ್ಗುರುವಿನ ಲಕ್ಷಣ-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶ</title>
 				<feature></feature>
-				<page></page>
+				<page>0003-0012</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಮಾಯೆ ಅವಿದ್ಯೆ ಹಾಗೂ ಜಗನ್ಮಿಥ್ಯಾತ್ವ</title>
 				<feature></feature>
-				<page></page>
+				<page>0013-0020</page>
 				<allauthors>
 					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
@@ -9717,7 +9715,7 @@
 			<entry>
 				<title>ವಾಸುದೇವ ಮನನಂ</title>
 				<feature></feature>
-				<page>0085-0098</page>
+				<page>0021-0030</page>
 				<allauthors>
 					<author type="1" title="">ಶ್ರೀಪರಮಹಂಸ ಪಾರಿವ್ರಾಜಕಾಚಾರ್ಯ ವಾಸುದೇವಯತಿ</author>
 					<author type="2" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
@@ -9726,7 +9724,7 @@
 			<entry>
 				<title>ಮಹಾಭಾರತದ ಉಪಾಖ್ಯಾನಗಳು ಉಪಮನ್ಯು (ಮುಂದುವರೆದುದು)</title>
 				<feature></feature>
-				<page>0067-0084</page>
+				<page>0031-0042</page>
 				<allauthors>
 					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀ ಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
 				</allauthors>
@@ -9734,15 +9732,15 @@
 			<entry>
 				<title>ಶ್ರೀ ಹನುಮಂತ ಭುಜಂಗ ಸ್ತೋತ್ರಮ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0043-0044</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಕೆಳದಿ ಗುಂಡಾಜೋಯಿಸ್ ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಶ್ರುತಿಸಾರ ಸಮುದ್ಧರಣಂ (ಮುಂದುವರೆದುದು-9)</title>
 				<feature></feature>
-				<page>0025-0032</page>
+				<page>0045-0052</page>
 				<allauthors>
 					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ</author>
 				</allauthors>
@@ -9750,7 +9748,7 @@
 			<entry>
 				<title>ರಾಮಾಯಣದ-ಒಂದು ಅಧ್ಯಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0053-0058</page>
 				<allauthors>
 					<author type="1" title="ಸೌ.">ಶ್ರೀಮತಿ ಡಿ.</author>
 				</allauthors>
@@ -9758,7 +9756,7 @@
 			<entry>
 				<title>ಮಾಧ್ವಮತವು ಮಾಯಾವಾದವೂ, ಪ್ರಚ್ಛನ್ನ ಬೌದ್ಧವೂ, ಪ್ರಚ್ಛನ್ನ ಚಾರ್ವಾಕವೂ ಆಗಿದೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0059-0064</page>
 				<allauthors>
 					<author type="1" title="ವೇ||">ವೆಂಕಟರಮಣ ಭಟ್ಟ ಪಿ.</author>
 				</allauthors>
@@ -9766,910 +9764,1162 @@
 			<entry>
 				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0065-0067</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Tour Programme</title>
 				<feature></feature>
-				<page></page>
+				<page>0068-0070</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="11" month="08" year="1989" maasa="ಶ್ರಾವಣ" samvatsara="ಶುಕ್ಲ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
 				<allauthors>
 					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅವಕಾಶಗಳನ್ನು ಸಾರ್ಥಕಗೊಳಿಸದಿರುವುದು-ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಶಂಕರರ ಶಿಷ್ಯರು-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0005-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆತ್ಮತತ್ತ್ವ</title>
+				<feature></feature>
+				<page>0011-0014</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜ್ಞಾನ-ಭಕ್ತಿ-ಕರ್ಮಗಳ ತ್ರಿವೇಣೀ ಸಂಗಮ</title>
+				<feature></feature>
+				<page>0015-0022</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ವಾಸುದೇವ ಮನನಂ (ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0023-0030</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀಪರಮಹಂಸ ಪಾರಿವ್ರಾಜಕಾಚಾರ್ಯ ವಾಸುದೇವಯತಿ</author>
+					<author type="2" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ರಾಮಾಯಣದ-ಒಂದು ಅಧ್ಯಯನ</title>
+				<feature></feature>
+				<page>0031-0036</page>
+				<allauthors>
+					<author type="1" title="ಸೌ.">ಶ್ರೀಮತಿ ಡಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಧ್ವತಂತ್ರಮುಖಮರ್ದನಮ್</title>
+				<feature></feature>
+				<page>0037-0042</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀಮದಪ್ಪಯ್ಯ ದೀಕ್ಷಿತರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರವರ್ಧತಾಂ ಸಂಸ್ಕೃತವಾಙ್ಮಯಶ್ರೀ</title>
+				<feature></feature>
+				<page>0043-0046</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀಧರಮೂರ್ತಿ ಎಂ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸನಾತನ ಧರ್ಮ ಅಥವಾ ಹಿಂದೂ ಧರ್ಮ</title>
+				<feature></feature>
+				<page>0047-0048</page>
+				<allauthors>
+					<author type="1" title="">ಗುಂಡೂರಾಯರು ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0049-0052</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ.">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0053-0060</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="25">
+		<part pnum="01" month="10" year="1989" maasa="ಆಶ್ವಯುಜ" samvatsara="ಶುಕ್ಲ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000g-0000h</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature></feature>
+				<page>0000i-0000n</page>
+				<allauthors>
+					<author type="1" title="">ಸಂಪಾದಕರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುಖ-ದುಃಖಗಳಿಗೆ ಕಾರಣ: ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗಂಡಸರಿಗೂ-ಹೆಂಗಸರಿಗೂ ಇರುವ ಕರ್ತವ್ಯಗಳು; (ಮುಂದುವರೆದುದ್ದು)</title>
+				<feature></feature>
+				<page>0005-0010</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಮಪೂಜ್ಯ ಶ್ರೀ ಗುರುವರ್ಯರ ಸ್ಮರಣೆ; ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳು</title>
+				<feature></feature>
+				<page>0011-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮಚ್ಛಾರೀರಕ ಶಾಸ್ತ್ರತಾತ್ಪರ್ಯಂ</title>
+				<feature></feature>
+				<page>0029-0034</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಗಳವರ ಅನುಗ್ರಹ</title>
+				<feature></feature>
+				<page>0035-0044</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ಬರಾಮಯ್ಯ ಡಿ. ಎಸ್. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಎಲ್ಲರೊಳಗೊಂದಾದ ಗುರುವರ್ಯರು</title>
+				<feature></feature>
+				<page>0045-0054</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರದ್ಧಾಂಜಲಿ</title>
+				<feature></feature>
+				<page>0055-0060</page>
+				<allauthors>
+					<author type="1" title="ಪಂಡಿತ ವೀರಕೇಸರಿ">ನಾಗೇಶ್ವರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಜಗದ್ಗುರು ಶ್ರೀ ಮದಭಿನವ ವಿದ್ಯಾತೀರ್ಥರು</title>
+				<feature></feature>
+				<page>0061-0064</page>
+				<allauthors>
+					<author type="1" title="ಪಂಡಿತಪ್ರವರ, ವಿದ್ವಾನ್">ಕೃಷ್ಣಜೋಯಿಸ್ ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮೀಭೂತ ಶೃಂಗೇರಿ ಜಗದ್ಗುರು ಅನಂತ ಶ್ರೀ ವಿಭೂಷಿತ ಶ್ರೀಮದಭಿನವ ವಿದ್ಯಾತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರು</title>
+				<feature></feature>
+				<page>0065-0068</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿ ಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಅಭಿನವ ವಿದ್ಯಾತೀರ್ಥ ಮಹೋಪಕಾರಃ</title>
+				<feature></feature>
+				<page>0069-0074</page>
+				<allauthors>
+					<author type="1" title="ವೇ|| ವಿದ್ವಾನ್">ವಿನಾಯಕ ಉಡುಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಿವ್ಯ ಅನುಗ್ರಹದ ಚಿಲುಮೆ</title>
+				<feature></feature>
+				<page>0075-0080</page>
+				<allauthors>
+					<author type="1" title="ಗುರುಭಕ್ತಾಲಂಕಾರ">ಹರಿಹರನ್ ಪಿ. ಆರ್. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುವರ್ಯ ಶ್ರೀ ಶ್ರೀ ಅಭಿನವ ವಿದ್ಯಾತೀರ್ಥರು</title>
+				<feature></feature>
+				<page>0081-0088</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀನಾಥ ಶಾಸ್ತ್ರೀ ಚಿ. ವಿ. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮೀಭೂತರಾದ ಶೃಂಗೇರಿ ಜಗದ್ಗುರು ಮಹಾಸನ್ನಿಧಾನಂಗಳವರು</title>
+				<feature></feature>
+				<page>0089-0094</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಾಮ ಭಟ್ಟ ಎಸ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮರೆಯಾದ ಮಹಾಯೋಗಿ</title>
+				<feature></feature>
+				<page>0095-0099</page>
+				<allauthors>
+					<author type="1" title="">ಶಾಸ್ತ್ರೀ ಲ. ನ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಾರ್ಥನಾ ಪಂಚಕಮ್</title>
+				<feature></feature>
+				<page>0100-0100</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀಮಹಾಲಿಂಗಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಗುರುವರ್ಯರು</title>
+				<feature></feature>
+				<page>0101-0105</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯ ಹೆಚ್. ಎಸ್. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಾತಃ ಸ್ಮರಣೀಯಸ್ತವಃ</title>
+				<feature></feature>
+				<page>0106-0106</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀಮಹಾಲಿಂಗಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮೀಭೂತ ಶ್ರೀಮದಭಿನವ ವಿದ್ಯಾತೀರ್ಥಾಭಿವಂದನಾ</title>
+				<feature></feature>
+				<page>0107-0108</page>
+				<allauthors>
+					<author type="1" title="ಪಂಡಿತ">ಸುಬ್ರಹ್ಮಣ್ಯ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿಯ ಸಮಾಚಾರ</title>
+				<feature></feature>
+				<page>0109-0116</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬ್ರಾಹ್ಮೀಭೂತ ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರುಗಳ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ</title>
+				<feature></feature>
+				<page>0117-0120</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" month="01" year="1990" maasa="ಪುಷ್ಯ" samvatsara="ಶುಕ್ಲ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ರಾಮಾಯಣವನ್ನು ಓದಿ- ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರ್ಮವನ್ನು ಮಾಡಲು ಯಾರಿಗೆ ಅಧಿಕಾರವಿದೆ?</title>
+				<feature></feature>
+				<page>0009-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜಗದ್ವಿಮರ್ಶೆ</title>
+				<feature></feature>
+				<page>0015-0022</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ದರ್ಶನ</title>
+				<feature></feature>
+				<page>0023-0028</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿ ಎಂ. ಎಲ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೪) </title>
+				<feature></feature>
+				<page>0029-0034</page>
+				<allauthors>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ವಾಸುದೇವ ಮನನಮ್-(ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0035-0040</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀಪರಮಹಂಸ ಪಾರಿವ್ರಾಜಕಾಚಾರ್ಯ ವಾಸುದೇವಯತಿ</author>
+					<author type="2" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ರಾಮಾಯಣದ-ಒಂದು ಅಧ್ಯಯನ</title>
+				<feature></feature>
+				<page>0041-0044</page>
+				<allauthors>
+					<author type="1" title="ಸೌ.">ಶ್ರೀಮತಿ ಡಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುದ್ರಾ, ತಪ್ತಾಯಸೇನವಾ</title>
+				<feature></feature>
+				<page>0045-0046</page>
+				<allauthors>
+					<author type="1" title="">ತ್ಯಾಮಗೊಂಡ್ಲು ಕೃಷ್ಣಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0047-00</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ.">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ಎನ್.</author>
 				</allauthors>
 			</entry>
 		</part>
+		<part pnum="05" month="02" year="1990" maasa="ಮಾಘ" samvatsara="ಶುಕ್ಲ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<page>0000e-0000f</page>
 				<allauthors>
 					<author type="1" title=""></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶಿಷ್ಯನಿಗೆ ಇರಬೇಕಾದ ಅರ್ಹತೆಗಳು-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0001-0008</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗುರುವಿನ ಅವಶ್ಯಕತೆ-ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳು</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0009-0014</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಬ್ರಹ್ಮತತ್ತ್ವ ಸಾಧನೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0015-0018</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ವೇದಸಮ್ಮತವಾದ ಸಿದ್ಧಾಂತ</title>
 				<feature></feature>
-				<page></page>
+				<page>0019-0022</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಕೃಷ್ಣಜೋಯಿಸ್ ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ವಾಸುದೇವ ಮನನಮ್-(ಮುಂದುವರೆದುದು)</title>
 				<feature></feature>
-				<page></page>
+				<page>0023-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶ್ರೀಮತ್ಪರಮಹಂಸ ಪಾರಿವ್ರಾಜಕಾಚಾರ್ಯ ವಾಸುದೇವಯತಿ</author>
+					<author type="2" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ನಿಜವಾದ ಆತ್ಮರಕ್ಷಣೆ ಮತ್ತು ಅದಕ್ಕೆ ಉಪಾಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0032</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ವೆಂಕಟೇಶ ಶರ್ಮಾ ಹೊ. ನಾ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೫) </title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0040</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ದೀನ ಕುರಂಗಃ</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0044</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಭಾಸ್ಕರ ಭಟ್ಟ ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0045-0047</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪರೋಪಕಾರದಿಂದ ಜೀವನ ಸಾರ್ಥಕ</title>
 				<feature></feature>
-				<page></page>
+				<page>0048-0049</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಕೃಷ್ಣಮೂರ್ತಿ ನಿಟಲಾಪುರ ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
+		</part>
+	</volume>
+	<volume vnum="26">
+		<part pnum="01" month="10" year="1990" maasa="ಆಶ್ವಯುಜ" samvatsara="ಪ್ರಮೋದ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0000e-0000f</page>
 				<allauthors>
 					<author type="1" title=""></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ತಿಳಿಯದೇ ಮಾಡಿದ ಪಾಪಗಳಿಗೆ ಪ್ರಾಯಶ್ಚಿತ್ತ-(ಮುಂದುವರೆದುದು) ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶ</title>
 				<feature></feature>
-				<page></page>
+				<page>0001-0006</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="">ವೆಂಕಟರಮಣನ್ ಡಿ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0007-0010</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪುರುಷಕಾರಃ</title>
 				<feature></feature>
-				<page></page>
+				<page>0011-0014</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅದ್ವೈತ ದರ್ಶನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0015-0020</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿ ಎಂ. ಎಲ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-12) </title>
 				<feature></feature>
-				<page></page>
+				<page>0021-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ವಿಜ್ಞಾನ ಮತ್ತು ಆಧ್ಯಾತ್ಮ</title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥ ಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಹಾಭಾರತದ ಉಪಾಖ್ಯಾನಗಳು ಉತ್ತಂಕ-(ಮುಂದುವರೆದುದು)</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0032</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಭಾವೈಕ್ಯ ಸಾಧನೆಯಲ್ಲಿ ಸಂಸ್ಕೃತದ ಪಾತ್ರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0036</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗವಾಸಿಷ್ಠದ ಉಪಾಖ್ಯಾನಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0037-0040</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ತ್ರಿಪುರ ವಿ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ-(ಮುಂದುವರೆದುದು)</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0044</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶೃಂಗೇರಿಯ ಸಮಾಚಾರ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0045-0049</page>
+				<allauthors />
 			</entry>
+		</part>
+		<part pnum="04" month="01" year="1991" maasa="ಪೌಷ" samvatsara="ಪ್ರಮೋದ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0000e-0000f</page>
 				<allauthors>
 					<author type="1" title=""></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0001-0004</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗೀತಾಜಯಂತಿಯ ಉದ್ದೇಶ; ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
+				<page>0005-0008</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="">ವೆಂಕಟರಾಮನ್ ಡಿ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0009-0016</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ವರ್ಣಮಾಲಸ್ತೋತ್ರಮ್</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0017-0018</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅತ್ಮಾಸ್ತಿತ್ವಂ</title>
 				<feature></feature>
-				<page></page>
+				<page>0019-0022</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅದ್ವೈತ ದರ್ಶನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0023-0026</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿ ಎಂ. ಎಲ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಉಪನಿಷತ್ತಿನ ಕಥೆಗಳು, ೧. ದೇವತೆಗಳ ವಿಜಯ (ಕೇನೋಪ ನಿಷತ್ತು)</title>
 				<feature></feature>
-				<page></page>
+				<page>0027-0030</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೧೫) </title>
 				<feature></feature>
-				<page></page>
+				<page>0031-0034</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಹಾಭಾರತದ ಉಪಾಖ್ಯಾನಗಳು ಉತ್ತಂಕ</title>
 				<feature></feature>
-				<page></page>
+				<page>0035-0040</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0044</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
 				</allauthors>
 			</entry>
+		</part>
+		<part pnum="06" month="03" year="1991" maasa="ಫಾಲ್ಗುಣ" samvatsara="ಪ್ರಮೋದ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0000e-0000e</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಧರ್ಮಶಾಸ್ತ್ರ ವಿಚಾರ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0000f-0000f</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಆತ್ಮಜ್ಞಾನ: ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0001-0004</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0005-0010</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸಿದ್ಧಾಂತತತ್ತ್ವಮ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0011-0016</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಮೂರ್ತಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅದ್ವೈತ ದರ್ಶನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0020</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಎಂ. ಎಲ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೧೭) </title>
 				<feature></feature>
-				<page></page>
+				<page>0021-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಉಪನಿಷತ್ತಿನ ಕಥೆಗಳು-೨. ನಚಿಕೇತ (ಮುಂದುವರೆದುದು)</title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಬ್ರಹ್ಮವಾದಿನಿ ಗಾರ್ಗಿ</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0034</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ರಂಗನಾಥ್ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0035-0038</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗ್ರಂಥವಿಮರ್ಶೆ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0039-0041</page>
+				<allauthors />
 			</entry>
+		</part>
+	</volume>
+	<volume vnum="27">
+		<part pnum="03" month="12" year="1990" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಪ್ರಮೋದ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0000e-0000f</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗೀತಾಜಯಂತಿಯ ಉದ್ದೇಶ: ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0001-0004</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0005-0008</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಕೃಪಾವಲಂಬನ ಸ್ತುತಿಃ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0009-0012-</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಆತ್ಮಾಸ್ತಿತ್ವಂ</title>
 				<feature></feature>
-				<page></page>
+				<page>0013-0016</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅದ್ವೈತ ದರ್ಶನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0020</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಎಂ. ಎಲ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೧೪) </title>
 				<feature></feature>
-				<page></page>
+				<page>0021-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ವಿಜ್ಞಾನ ಮತ್ತು ಆಧ್ಯಾತ್ಮ</title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥ ಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಹಾಭಾರತದ ಉಪಾಖ್ಯಾನಗಳು ಉತ್ತಂಕ:</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0032</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0036</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0037-0038</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪುಸ್ತಕ ವಿಮರ್ಶೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0039-0042</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ.">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶೃಂಗೇರಿಯ ಸಮಾಚಾರ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0043-0044</page>
+				<allauthors />
 			</entry>
+		</part>
+		<part pnum="10" month="07" year="1991" maasa="ಆಷಾಢ" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0000e-0000f</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಧಾರ್ಮಿಕ ಶಿಕ್ಷಣ-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0001-0008</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0016</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ವೆಂಕಟರಮಣನ್ ಡಿ. ಆರ್. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಮಧುಸೂದನ ಸರಸ್ವತಿಗಳಿಂದ ರಚಿತವಾದ ಗೂಢಾರ್ಥ ದೀಪಿಕಾ-ಒಂದು ವಿಮರ್ಶೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0022</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಈಶಾವಾಸ್ಯ ತಾತ್ಪರ್ಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0023-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಕೃಷ್ಣಜೋಯಿಸ್ ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ರಾಮನ ಹದಿನಾಲ್ಕು ವರ್ಷಗಳ ವನವಾಸ</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0034</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಂಕರಶಾಸ್ತ್ರೀ ಕೆ. ಪಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೨೧) </title>
 				<feature></feature>
-				<page></page>
+				<page>0035-0038</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಉಪನಿಷತ್ತಿನ ಕಥೆಗಳು-ಉಪಕೋಸಲ-೬</title>
 				<feature></feature>
-				<page></page>
+				<page>0039-0042</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸ್ತೋತ್ರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0043-0044</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯದಲ್ಲಿ ಆದರ್ಶ ದಂಪತಿಗಳ ಚಿತ್ರಣ</title>
 				<feature></feature>
-				<page></page>
+				<page>0045-0048</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ.">ರಂಗನಾಥ್ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0049-0052</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಹರಿಹರಪುರದಲ್ಲಿ ಕುಂಭಾಭಿಷೇಕ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0053-0055</page>
+				<allauthors />
 			</entry>
+		</part>
+		<part pnum="11" month="08" year="1991" maasa="ಶ್ರಾವಣ" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0000e-0000f</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಆತ್ಮವು ದೇಹಕ್ಕಿಂತ ಬೇರೆಯಾದುದು; ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0001-0004</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0005-0008</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಮಧುಸೂದನ ಸರಸ್ವತಿಗಳಿಂದ ರಚಿತವಾದ ಗೂಢಾರ್ಥ ದೀಪಿಕಾ-ಒಂದು ವಿಮರ್ಶೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0016</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೨೨) </title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0020</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಉಪನಿಷತ್ತಿನ ಕಥೆಗಳು-ಪ್ರಾಣದ ಶ್ರೇಷ್ಠತೆ-೭</title>
 				<feature></feature>
-				<page></page>
+				<page>0021-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಗಾಯತ್ರ್ಯುಪನಿಷತ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0030</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶಂಕರಶಾಸ್ತ್ರೀ ಟಿ. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0031-0034</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀಸಾಮಾನ್ಯನಿಗಾಗಿ ಮತವಿವೇಕ</title>
 				<feature></feature>
-				<page></page>
+				<page>0035-0040</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಕೃಷ್ಣಭಟ್ಟ ಎಸ್. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಾನವಧರ್ಮ ಸಮಾನತೆಯ ಪ್ರತೀಕ ಶ್ರೀ ಶೃಂಗೇರಿ ಪೀಠ</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0046</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯ ಬಿ.</author>
 				</allauthors>
 			</entry>
+		</part>
+		<part pnum="12" month="09" year="1991" maasa="ಭಾದ್ರಪದ" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0000e-0000f</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಆತ್ಮವು ದೇಹಕ್ಕಿಂತ ಬೇರೆಯಾದುದು; ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0001-0006</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0007-0012</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಆತ್ಮ ಸ್ವರೂಪಂ</title>
 				<feature></feature>
-				<page></page>
+				<page>0013-0018</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗೀತಾ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0019-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಕೃಷ್ಣಜೋಯಿಸ್ ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಉಪನಿಷತ್ತಿನ ಕಥೆಗಳು-೮. ಶ್ವೇತಕೇತು ಮತ್ತು ಪ್ರವಾಹಣ ರಾಜ (ಛಾಂದೋಗ್ಯ)</title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೨೩) </title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0032</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ತಮಸೋಮಾ ಜ್ಯೋತಿರ್ಗಮಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0034</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0035-0038</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ವೇದದ ಮೂಲಕ ಅದ್ವೈತದ ಉಪಾಸನೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0039-0042</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಬಾಲಕೃಷ್ಣ ಕೆ. ವಿ. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
+		</part>
+	</volume>
+	<volume vnum="28">
+		<part pnum="01" month="10" year="1991" maasa="ಆಶ್ವಯುಜ" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0000e-0000f</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಆತ್ಮವು ದೇಹಕ್ಕಿಂತ ಬೇರೆಯಾದುದು; ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0001-0006</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರದ್ಧೆ-ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0007-0012</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗಸಾಧನೆಯ ಉಪಾದೇಯತಾ-ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ಕೃಷ್ಣತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0013-0016</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ವೇದಾಂತ ಪರಿಭಾಷೆಯ ಸಾರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0020</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗೀತಾ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0021-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಕೃಷ್ಣಜೋಯಿಸ್ ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೨೪) </title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಉಪನಿಷತ್ತಿನ ಕಥೆಗಳು-೯. ಯಾಜ್ಞ್ಯವಲ್ಕ್ಯವಿಜಯ-(ಬೃಹದಾರಣ್ಯಕ)</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0032</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಹೀಗಿದ್ದರು, ಗುರುವರ್ಯರು</title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0036</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ವೇದದ ಮೂಲಕ ಅದ್ವೈತದ ಉಪಾಸನೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0037-0040</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಬಾಲಕೃಷ್ಣ ಕೆ. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅಗಲಿದ ಮಹಾಸ್ವಾಮಿಗಳೊಂದಿಗೆ-ಒಂದು ನೆನಪು</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0044</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ಶಾಸ್ತ್ರೀ ಎ. ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0045-0048</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0049-0051</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ. ಶ್ರೀ</author>
 				</allauthors>
 			</entry>
+		</part>
+		<part pnum="05" month="02" year="1992" maasa="ಮಾಘ" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
 				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಒಂದು ವಿವರಣೆ</title>
 				<feature></feature>
 				<page></page>
 				<allauthors>
@@ -10677,7 +10927,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಈಶ್ವರ ಮತ್ತು ಜಗತ್ತು-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
 				<page></page>
 				<allauthors>
@@ -10685,7 +10935,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೇಯಸ್ಸಿಗೆ ದಾರಿ-ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
 				<page></page>
 				<allauthors>
@@ -10693,19 +10943,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ವೇದಾಂತ ಪರಿಭಾಷೆಯ ಸಾರ (ಮುಂದುವರೆದುದು-೫)</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0020</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗೀತಾ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ (ಮುಂದುವರೆದುದು-೬)</title>
 				<feature></feature>
-				<page></page>
+				<page>0021-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಕೃಷ್ಣಜೋಯಿಸ್ ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
