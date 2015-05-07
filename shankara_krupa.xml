@@ -19544,7 +19544,7 @@
 				<feature></feature>
 				<page>0005-0008</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19568,7 +19568,7 @@
 				<feature></feature>
 				<page>0025-0028</page>
 				<allauthors>
-					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತಿ ಡಿ.</author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19599,7 +19599,7 @@
 			<entry>
 				<title>ಪಲಿಮಾರು ಮಠದ ಯತಿಗಳಿಗೆ ಉತ್ತರ</title>
 				<feature></feature>
-				<page>0047-00</page>
+				<page>0047-0060</page>
 				<allauthors>
 					<author type="1" title="ಶ್ರೀ">ನಾರಾಯಣ ಭಟ್ಟ ಕೆ.</author>
 				</allauthors>
@@ -19607,7 +19607,7 @@
 			<entry>
 				<title>ಶ್ರೀ ಶಂಕರ ಜಯಂತೀ ಮಹೋತ್ಸವ</title>
 				<feature></feature>
-				<page></page>
+				<page>0061-0072</page>
 				<allauthors>
 					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
@@ -19617,219 +19617,85 @@
 				<feature></feature>
 				<page>0073-0074</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ||">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ವಾರ್ತೆಗಳು</title>
 				<feature></feature>
-				<page>0075-00</page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0075-0075</page>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="0" month="" year="" maasa="" samvatsara="">
+		<part pnum="10" month="07" year="1989" maasa="ಆಷಾಢ" samvatsara="ಶುಕ್ಲ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0000e-0000e</page>
+				<allauthors />
 			</entry>	
 			<entry>
-				<title></title>
+				<title>ಮಾನವನ ಯೋಗ್ಯತೆ-ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಹೆಂಗಸರಿಗೂ ಗಂಡಸರಿಗೂ ಇರುವ ಕರ್ತವ್ಯಗಳು-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0003-0008</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಕರ್ತವ್ಯ ನಿರ್ಣಯಃ (ಮುಂದುವರೆದುದು)</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0018</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಶಂಕರಾಚಾರ್ಯರು (ಮುಂದುವರೆದುದು)</title>
 				<feature></feature>
-				<page></page>
+				<page>0019-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ">ಲಕ್ಷ್ಮಣ ವಿರೂಪಾಕ್ಷ ಜೋಶಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ವಾಸುದೇವ ಮನಮ್ (ಮುಂದುವರೆದುದು)</title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0032</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಶ್ರೀಪರಮಹಂಸ ಪಾರಿವ್ರಾಜಕಾಚಾರ್ಯ ವಾಸುದೇವಯತಿ</author>
+					<author type="2" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಕವಿಕುಲಗುರುಃ ಕಾಳಿದಾಸಃ</title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0034</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶ್ರೀಧರಮೂರ್ತಿ ಎಂ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪಲಿಮಾರು ಮಠದ ಯತಿಗಳಿಗೆ ಉತ್ತರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0035-0042</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ">ನಾರಾಯಣ ಭಟ್ಟ ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ವಾರ್ತೆಗಳು</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<page>0043-0050</page>
+				<allauthors />
 			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
+		</part>	
 		<part pnum="11" month="08" year="1989" maasa="ಶ್ರಾವಣ" samvatsara="ಶುಕ್ಲ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
@@ -19923,6 +19789,83 @@
 				<allauthors />
 			</entry>
 		</part>
+		<part pnum="12" month="09" year="1989" maasa="ಭಾದ್ರಪದ" samvatsara="ಶುಕ್ಲ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000e</page>
+				<allauthors />
+			</entry>	
+			<entry>
+				<title>ಮಾನವ ಜನ್ಮದ ಶ್ರೇಷ್ಠತೆ - ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಶಂಕರರ ಶಿಷ್ಯರು-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0003-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಗುರುಸಾರ್ವಭೌಮ ಮಹಿಮೋತ್ಕರ್ಷಃ</title>
+				<feature></feature>
+				<page>0011-0014</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾರತೀಯ ಸಾಂಸ್ಕೃತಿಕ ಸಂಸ್ಥೆಯಾಗಿ ವರ್ಣಧರ್ಮ</title>
+				<feature></feature>
+				<page>0015-0022</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಚಂದ್ರಶೇಖರ ಹೆಚ್. ಎಲ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗಾಯತೀ ಮಂತ್ರ</title>
+				<feature></feature>
+				<page>0023-0028</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಸುಬ್ಬರಾವ್ ಜಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ವಾಸುದೇವ ಮನನಮ್-(ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0029-0036</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀಪರಮಹಂಸ ಪಾರಿವ್ರಾಜಕಾಚಾರ್ಯ ವಾಸುದೇವಯತಿ</author>
+					<author type="2" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ರಾಮಾಯಣದ-ಒಂದು ಅಧ್ಯಯನ</title>
+				<feature></feature>
+				<page>0037-0040</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಧ್ವತಂತ್ರಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೨)</title>
+				<feature></feature>
+				<page>0041-0044</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀಮದಪ್ಪಯ್ಯ ದೀಕ್ಷಿತರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಚಾರ ತರಂಗ</title>
+				<feature></feature>
+				<page>0045-0048</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಬಾಲಕೃಷ್ಣ ಕೆ. ವಿ.</author>
+				</allauthors>
+			</entry>
+		</part>	
 	</volume>
 	<volume vnum="25">
 		<part pnum="01" month="10" year="1989" maasa="ಆಶ್ವಯುಜ" samvatsara="ಶುಕ್ಲ">
@@ -20095,6 +20038,199 @@
 				<allauthors />
 			</entry>
 		</part>
+		<part pnum="02" month="11" year="1989" maasa="ಕಾರ್ತಿಕ" samvatsara="ಶುಕ್ಲ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000g-0000g</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗಂಡಸರಿಗೂ-ಹೆಂಗಸರಿಗೂ ಇರುವ ಕರ್ತವ್ಯಗಳು; (ಮುಂದುವರೆದುದ್ದು)</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ ಶ್ರೀ">ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರು</author>
+					<author type="2" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀ ತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಅನುಗ್ರಹ ಭಾಷಣ</title>
+				<feature></feature>
+				<page>0005-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ತತ್ತ್ವಜ್ಞಾನಂ</title>
+				<feature></feature>
+				<page>0015-0018</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೩)</title>
+				<feature></feature>
+				<page>0019-0026</page>
+				<allauthors>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾಗವತದ ಎರಡು ಶ್ಲೋಕಗಳು</title>
+				<feature></feature>
+				<page>0027-0032</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ವೆಂಕಟೇಶ ಶರ್ಮಾಶಾಸ್ತ್ರಿ ಹೊ. ನಾ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ವಾಸುದೇವ ಮನನಮ್-(ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0033-0038</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀಪರಮಹಂಸ ಪಾರಿವ್ರಾಜಕಾಚಾರ್ಯ ವಾಸುದೇವಯತಿ</author>
+					<author type="2" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಐತರೇಯೋಪನಿಷತ್-(ಕನ್ನಡ ಪದ್ಯಾನುವಾದ)</title>
+				<feature></feature>
+				<page>0039-0044</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಲಕ್ಷ್ಮಣ ವಿರೂಪಾಕ್ಷ ಜೋಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನ್ಯೋಕ್ತಿ ಸಂಕಲನ</title>
+				<feature></feature>
+				<page>0045-0050</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥ್ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0051-0052</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಅಭಿನವ ವಿದ್ಯಾತೀರ್ಥ ಮಹಾಸ್ವಾಮಿನಾಂ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಲಿಃ</title>
+				<feature></feature>
+				<page>0053-0058</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿಯ ಸಮಾಚಾರ</title>
+				<feature></feature>
+				<page>0059-0063</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="12" year="1989" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಶುಕ್ಲ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ ಶ್ರೀ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಶಿವನೂ ವಿಷ್ಣುವೂ ಒಬ್ಬರೇ - ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರ್ಮವನ್ನು ಮಾಡಲು ಯಾರಿಗೆ ಅಧಿಕಾರವಿದೆ?</title>
+				<feature></feature>
+				<page>0009-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮಾಧ್ವವ್ಯಾಖ್ಯಾನ ವೈಖರೀ</title>
+				<feature></feature>
+				<page>0013-0016</page>
+				<allauthors>
+					<author type="1" title="ಶೃಂಗಗಿರಿ ಕವಿ ಶ್ರೀ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಪರೋಕ್ಷಜ್ಞಾನ</title>
+				<feature></feature>
+				<page>0017-0022</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ವೆಂಕಟೇಶ ಶರ್ಮಾಶಾಸ್ತ್ರಿ ಹೊ. ನಾ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ವಾಸುದೇವ ಮನನಮ್-(ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0023-0028</page>
+				<allauthors>
+					<author type="1" title="">ಶ್ರೀಪರಮಹಂಸ ಪಾರಿವ್ರಾಜಕಾಚಾರ್ಯ ವಾಸುದೇವಯತಿ</author>
+					<author type="2" title="ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಐತರೇಯೋಪನಿಷತ್-(ಕನ್ನಡ ಪದ್ಯಾನುವಾದ)</title>
+				<feature></feature>
+				<page>0029-0032</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ಲಕ್ಷ್ಮಣ ವಿರೂಪಾಕ್ಷ ಜೋಶಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಧ್ವತಂತ್ರ ಮುಖಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೪)</title>
+				<feature></feature>
+				<page>0033-0037</page>
+				<allauthors>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರು</title>
+				<feature></feature>
+				<page>0038-0040</page>
+				<allauthors>
+					<author type="1" title="">ತ್ಯಾಮಗೊಂಡ್ಲು ಕೃಷ್ಣಭಟ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ರಾಮಾಯಣದ-ಒಂದು ಅಧ್ಯಯನ</title>
+				<feature></feature>
+				<page>0041-0045</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾಗವತಃ ಭಕ್ತವಾತ್ಸಲ್ಯಂ</title>
+				<feature></feature>
+				<page>0046-0048</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶ್ರೀಧರಶರ್ಮಾ ಎಂ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0049-0050</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ಎನ್.</author>
+				</allauthors>
+			</entry>
+		</part>	
 		<part pnum="04" month="01" year="1990" maasa="ಪುಷ್ಯ" samvatsara="ಶುಕ್ಲ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
@@ -24442,7 +24578,1016 @@
 			</entry>
 		</part>
 	</volume>
-	<volume vnum="01">
+	<volume vnum="37">
+		<part pnum="01" month="01" year="2000" maasa="ಪುಷ್ಯ" samvatsara="ಪ್ರಮಾಥೀ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+				<title>ಜಗದ್ಗುರುವಾಣಿ</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>												
+			<entry>
+				<title>ಜಗದ್ಗುರುಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0002-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಆಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0006-0008</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚದಶೀ-ತತ್ವವಿವೇಕಪ್ರಕರಣ ಪ್ರವಚನ-೧೨</title>
+				<feature></feature>
+				<page>0009-0012</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಇಂದಿನ ಕರ್ತವ್ಯ</title>
+				<feature></feature>
+				<page>0013-0017</page>
+				<allauthors>
+					<author type="1" title="ದಿ|| ವಿದ್ವಾನ್">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ವೆ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಶಂಕರ ದರ್ಶನದಲ್ಲಿ "ಅವಿದ್ಯೆ" "ಇಚ್ಛಾಸ್ವಾತಂತ್ರ್ಯ"ದ ಕಲ್ಪನೆ</title>
+				<feature></feature>
+				<page>0018-0023</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಬಾಲರಾಜ್ ಕೆ. ವೈ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಗತಿಪಥದಲ್ಲಿ ಸಂಸ್ಕೃತಭಾಷೆ</title>
+				<feature></feature>
+				<page>0024-0027</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜೀವನೇ ದೇವ</title>
+				<feature></feature>
+				<page>0028-0030</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಮಹಾಬಲೇಶ್ವರ ಭಟ್ಟ ಪಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೀಮಾಂಸಾಶಾಸ್ತ್ರ -ಅಧ್ಯಯನದ ಅವಶ್ಯಕತೆ</title>
+				<feature></feature>
+				<page>0031-0033</page>
+				<allauthors>
+					<author type="1" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಚಾರಮಂಥನ -ಅಪ್ರಬದ್ಧಟೀಕೆಗಳ ಬಗ್ಗೆ ಕೆಲವು ನಿದರ್ಶನಗಳು</title>
+				<feature></feature>
+				<page>0034-0037</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಯಾನ್ ಮಾರ್</title>
+				<feature></feature>
+				<page>0038-0040</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">"ಅನಂತಂ"</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುದೇವ ಜಗದ್ಗುರು ಶ್ರೀ ಭಾರತೀತೀರ್ಥರು</title>
+				<feature></feature>
+				<page>0041-0044</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳವಿಭಾಗ -ಸಲಹೆಗಳು</title>
+				<feature></feature>
+				<page>0045-0046</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್ ಶ್ರೀ">ಶೇಷಗಿರಿಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0047-0048</page>
+				<allauthors>
+					<author type="1" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02-03" year="2000" maasa="" samvatsara="">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors />
+			</entry>
+				<title>ಜಗದ್ಗುರುವಾಣಿ</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಆಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚದಶೀ-ತತ್ವವಿವೇಕಪ್ರಕರಣ ಪ್ರವಚನ-೧೨</title>
+				<feature></feature>
+				<page>0009-0011</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಿವಃಕೇವಲೋsಹಮ್</title>
+				<feature></feature>
+				<page>0012-0014</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣಭಟ್ಟ ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುದೇವ ಜಗದ್ಗುರು ಶ್ರೀ ಭಾರತೀತೀರ್ಥರು</title>
+				<feature></feature>
+				<page>0015-0019</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿರುನೀಲಕಂಠ ನಾಯನಾರ್</title>
+				<feature></feature>
+				<page>0020-0024</page>
+				<allauthors>
+					<author type="1" title="">ಅನಂತಂ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಚಾರಮಂಥನ -೩೨ ಜನಜೀವನ ಮತ್ತು ಸಾಹಿತ್ಯ</title>
+				<feature></feature>
+				<page>0025-0029</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಬ್ರಹ್ಮ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ಭಗವತ್ಪಾದರ ಉಪದೇಶ ಪಂಚಕಗಳು</title>
+				<feature></feature>
+				<page>0030-0031</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆದರ್ಶ ಭ್ರಾತೃ-ಪ್ರೇಮ ಶ್ರೀ ಭರತನ-ಭ್ರಾತೃ-ಪ್ರೇಮ</title>
+				<feature></feature>
+				<page>0032-0034</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಜ್ಞದೃಷ್ಟಿ</title>
+				<feature></feature>
+				<page>0035-0038</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ವಾಗೀಶ್ವರೀ ಶಿವರಾಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳ ವಿಭಾಗ - ದೇವರು ದೊಡ್ಡವನು</title>
+				<feature></feature>
+				<page>0039-0040</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್ ಶ್ರೀ">ಶೇಷಗಿರಿಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0041-0042</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0043-0044</page>
+				<allauthors>
+					<author type="1" title="">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2000" maasa="ಚೈತ್ರ" samvatsara="ವಿಕ್ರಮ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000g-0000g</page>
+				<allauthors />
+			</entry>
+				<title>ಜಗದ್ಗುರುವಾಣಿ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>												
+			<entry>
+				<title>ಜಗದ್ಗುರುಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0003-0007</page>
+				<allauthors>
+					<author type="2" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಆಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0008-0010</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚದಶೀ-ಪಂಚಭೂತ ವಿವೇಕ</title>
+				<feature></feature>
+				<page>0011-0015</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮ ಎನ್.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಆಚಾರ್ಯ ಶಂಕರರ ಪ್ರಕಾರ ಕರ್ಮ ಮತ್ತು ಸಂಸಾರ</title>
+				<feature></feature>
+				<page>0016-0019</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಬಾಲರಾಜ್ ಕೆ. ವೈ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಿವಃಕೇವಲೋsಹಮ್</title>
+				<feature></feature>
+				<page>0020-0022</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣಭಟ್ಟ ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಂಗಳ ತುಂಗೆಯ ಜ್ಞಾನ ಗಂಗೆ</title>
+				<feature></feature>
+				<page>0023-0026</page>
+				<allauthors>
+					<author type="1" title="">ಜಯರಾಮನ್ ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆದರ್ಶ -ಭಾತೃ-ಪ್ರೇಮ</title>
+				<feature></feature>
+				<page>0029-0033</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಡಿ-ಮೈಲಿಗೆ</title>
+				<feature></feature>
+				<page>0034-0038</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳ ವಿಭಾಗ - ದುರಾಡಳಿತದ ಫಲ</title>
+				<feature></feature>
+				<page>0039-0040</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್ ಶ್ರೀ">ಶೇಷಗಿರಿಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2000" maasa="ವೈಶಾಖ" samvatsara="ವಿಕ್ರಮ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+				<title>ಜಗದ್ಗುರುವಾಣಿ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>												
+			<entry>
+				<title>ಜಗದ್ಗುರುಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors>
+					<author type="2" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಆಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0007-0010</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚದಶೀ-ಪ್ರವಚನ-೧೫</title>
+				<feature></feature>
+				<page>0011-0015</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮ ಎನ್.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಮಹಾಪ್ರದೋಷದ ವಿಷಯ</title>
+				<feature></feature>
+				<page>0016-0020</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶಂಕರಶಾಸ್ತ್ರೀ ಕೆ. ಪಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭ್ರಮೆಯಿಂದಲೇ ಜೀವನಿಗೆ ಅನಾದಿಕಾಲದಿಂದ ಉತ್ಪನ್ನವಾಗಿದ್ದ ದೇಹಾಸಕ್ತಿ</title>
+				<feature></feature>
+				<page>0021-0022</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶ್ರೀನಿವಾಸಜೋಯಿಸ್ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಯನಮಾರ್</title>
+				<feature></feature>
+				<page>0023-0025</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">"ಅನಂತಂ"</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಂಗಳತುಂಗೆಯ ಜ್ಞಾನಗಂಗೆ</title>
+				<feature></feature>
+				<page>0026-0029</page>
+				<allauthors>
+					<author type="1" title="">ಜಯರಾಮನ್ ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಪಸ್ಸು</title>
+				<feature></feature>
+				<page>0030-0031</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಚಾರ ಮಂಥನ</title>
+				<feature></feature>
+				<page>0032-0037</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳವಿಭಾಗ</title>
+				<feature></feature>
+				<page>0038-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ದಿಟ್ಟ-ಪುಟ್ಟ ಧ್ರುವ</title>
+				<feature></feature>
+				<page>0038-0039</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿಭಟ್ಟ ಬಿ. ಕೆ. ಶ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅತಿಥಿ ಸತ್ಕಾರ</title>
+				<feature></feature>
+				<page>0040-0041</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ನರಸಿಂಹಮೂರ್ತಿ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0042-0043</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀಗಳವರ ವರ್ಧಂತಿ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0044-0049</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀಗಳವರ ಅನುಗ್ರಹ ಭಾಷಣ</title>
+				<feature></feature>
+				<page>0050-0052</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2000" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ವಿಕ್ರಮ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+				<title>ಜಗದ್ಗುರುವಾಣಿ</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>												
+			<entry>
+				<title>ಜಗದ್ಗುರುಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0002-0006</page>
+				<allauthors>
+					<author type="2" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಆಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0007-0010</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚದಶೀ-ಪ್ರವಚನ-೧೬</title>
+				<feature></feature>
+				<page>0011-0014</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮ ಎನ್.</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>ಸಾರ್ವಕಾಲಿಕ ಪ್ರಸ್ತುತವಾದ ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದರ ವ್ಯಕ್ತಿತ್ವ</title>
+				<feature></feature>
+				<page>0015-0021</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜೀವನ್ಮುಕ್ತಿ ಮತ್ತು ಪ್ರಾರಬ್ಧಕರ್ಮ</title>
+				<feature></feature>
+				<page>0022-0025</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಬಾಲರಾಜ್ ಕೆ. ವೈ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯರ ತತ್ತ್ವ ಮತ್ತು ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0026-0029</page>
+				<allauthors>
+					<author type="1" title="">ಸೌಕೂರು ಸುಬ್ರಹ್ಮಣ್ಯ ಅಡಿಗ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆರ್ಜವ</title>
+				<feature></feature>
+				<page>0030-0031</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಂಗಳ ತುಂಗೆಯ ಜ್ಞಾನಗಂಗೆ</title>
+				<feature></feature>
+				<page>0032-0034</page>
+				<allauthors>
+					<author type="1" title="">ಜಯರಾಮನ್ ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆದರ್ಶ ಭ್ರಾತೃ ಪ್ರೇಮ</title>
+				<feature></feature>
+				<page>0035-0039</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೆಯ್ ಪ್ಪೊರುಳ್ ನಾಯನಾರ್</title>
+				<feature></feature>
+				<page>0040-0042</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಂ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆನ್ನಶಂಸ್ಯದ ಮಹತ್ವ</title>
+				<feature></feature>
+				<page>0043-0045</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿ ಶಾಸ್ತ್ರಿ ಎಂ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳ ವಿಭಾಗ</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪ್ರಾಮಾಣಿಕತೆ</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್ ಶ್ರೀ">ಶೇಷಗಿರಿಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0048-0050</page>
+				<allauthors>
+					<author type="2" title="ಶೃಂಗಗಿರಿ ಕವಿ ಶ್ರೀ">ನರಸಿಂಹಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಶ್ರೀ ಶಂಕರ ಜಯಂತಿ</title>
+				<feature></feature>
+				<page>0051-0053</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2000" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ವಿಕ್ರಮ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+				<title>ಜಗದ್ಗುರುವಾಣಿ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>										
+			<entry>
+				<title>ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ರಚನೆಗಳು</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರುಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0006-0010</page>
+				<allauthors>
+					<author type="2" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಆಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0011-0014</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚದಶೀ-ಪ್ರವಚನ-೧೭</title>
+				<feature></feature>
+				<page>0015-0018</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗಿಯ ಮರಣೋತ್ತರಗತಿ</title>
+				<feature></feature>
+				<page>0019-0021</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಕೌಲಗಿ ಶೇಷಾಚಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗಿಯ ಮರಣೋತ್ರಗತಿ-ಒಂದು ವಿವರಣೆ</title>
+				<feature></feature>
+				<page>0022-0027</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ|| (ಡಾ||)">ನರಸಿಂಹಮೂರ್ತಿ ಎಂ. ಎಲ್.</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>ಸಾರ್ವಕಾಲಿಕ ಪ್ರಸ್ತುತವಾದ ಶ್ರೀ ಶಂಕರಭಗವತ್ಪಾದರ ವ್ಯಕ್ತಿತ್ವ</title>
+				<feature></feature>
+				<page>0028-0033</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧರ್ಮ</title>
+				<feature></feature>
+				<page>0034-0035</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆದರ್ಶ ಭ್ರಾತೃ ಪ್ರೇಮ</title>
+				<feature></feature>
+				<page>0036-0038</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಂಗಳ ತುಂಗೆಯ ಜ್ಞಾನಗಂಗೆ</title>
+				<feature></feature>
+				<page>0039-0043</page>
+				<allauthors>
+					<author type="1" title="">ಜಯರಾಮನ್ ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳ ವಿಭಾಗ</title>
+				<feature></feature>
+				<page>0044-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ತೂತು ಮಡಿಕೆ</title>
+				<feature></feature>
+				<page>0044-0045</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್ ಶ್ರೀ">ಶೇಷಗಿರಿಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸತ್ಯವಾದಿ ಜಿಂಕೆಗಳು</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors>
+					<author type="1" title="">ನರಸಿಂಹಮೂರ್ತಿ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿಯ ಶಾರದಾಪೀಠ ಪ್ರಶಸ್ತಿ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2000" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ವಿಕ್ರಮ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+				<title>ಜಗದ್ಗುರುವಾಣಿ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮೀಭೂತ ಶ್ರೀ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0003-0007</page>
+				<allauthors>
+					<author type="2" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಆಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0008-0011</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚದಶೀ-ಪ್ರವಚನ-೧೮</title>
+				<feature></feature>
+				<page>0012-0015</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮ ಎನ್.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಶಿವಃಕೇವಲೋsಹಮ್</title>
+				<feature></feature>
+				<page>0016-0018</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣಭಟ್ಟ ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತದಲ್ಲಿ ಭಕ್ತಿಯಸ್ಥಾನ</title>
+				<feature></feature>
+				<page>0019-0023</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಬಾಲರಾಜ್ ಕೆ. ವೈ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೇದಾಂತ ಮತ್ತು ತ್ಯಾಗರಾಜರು</title>
+				<feature></feature>
+				<page>0024-0026</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಪದ್ಮಾ ಟಿ. ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗ ಶಬ್ದದ ವ್ಯುತ್ಪತ್ತಿ ಮತ್ತು ಅದರ ವ್ಯಾಖ್ಯೆಗಳು</title>
+				<feature></feature>
+				<page>0027-0029</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ದಿನೇಶ್ ಆರ್. ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಚಾರ ಮಂಥನ-ಜ್ಯೋತಿಷ್ಯ ಮತ್ತು ಜನಜೀವನ</title>
+				<feature></feature>
+				<page>0030-0036</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದ್ರಾಮಾಯಣ-ಒಂದು ಒಳನೋಟ</title>
+				<feature></feature>
+				<page>0037-0042</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0043-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಸಮಾಚಾರ</title>
+				<feature></feature>
+				<page>0046-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2000" maasa="ಆಶ್ವಯುಜ" samvatsara="ವಿಕ್ರಮ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+				<title>ಜಗದ್ಗುರುವಾಣಿ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮೀಭೂತ ಶ್ರೀ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0003-0009</page>
+				<allauthors>
+					<author type="2" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಭಾರತೀತೀರ್ಥ ಸ್ವಾಮಿಗಳಿಂದ ರಚಿತವಾದ ಸ್ತೋತ್ರಗಳು</title>
+				<feature></feature>
+				<page>0010-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಆಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0012-0016</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚದಶೀ-ಪ್ರವಚನ-೧೮</title>
+				<feature></feature>
+				<page>0017-0020</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆದರ್ಶ ಭಾತೃ ಪ್ರೇಮ</title>
+				<feature></feature>
+				<page>0021-0025</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಮರ್ ನೀತಿ ನಾಯನಾರ್</title>
+				<feature></feature>
+				<page>0026-0028</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಂ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಸ್ಕೃತ ವಾಙ್ಮಯಕ್ಕೆ ಕರ್ನಾಟಕದ ಕೊಡುಗೆ</title>
+				<feature></feature>
+				<page>0029-0032</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜ್ಯೋತಿಷ್ಯ ಮತ್ತು ಜನಜೀವನ</title>
+				<feature></feature>
+				<page>0033-0037</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳ ವಿಭಾಗ</title>
+				<feature></feature>
+				<page>0038-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪ್ರತಿಭೆ</title>
+				<feature></feature>
+				<page>0038-0039</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್ ಶ್ರೀ">ಶೇಷಗಿರಿಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಗವದ್ಗೀತೆಯಲ್ಲಿ ಸ್ವಾರಸ್ಯ</title>
+				<feature></feature>
+				<page>0040-0041</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ನರಸಿಂಹಮೂರ್ತಿ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗ್ರಂಥ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0042-0043</page>
+				<allauthors>
+					<author type="1" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2000" maasa="ಕಾರ್ತಿಕ" samvatsara="ವಿಕ್ರಮ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+				<title>ಜಗದ್ಗುರುವಾಣಿ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಭಾರತೀತೀರ್ಥ ಸ್ವಾಮಿಗಳಿಂದ ರಚಿತವಾದ ಸ್ತೋತ್ರಗಳು</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮೀಭೂತ ಶ್ರೀ ಜಗದ್ಗುರುಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0005-0009</page>
+				<allauthors>
+					<author type="2" title="">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಆಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0010-0014</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚದಶೀ-ಪ್ರವಚನ-೨೦</title>
+				<feature></feature>
+				<page>0015-0018</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮ ಎನ್.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಶಿವಃಕೇವಲೋsಹಮ್</title>
+				<feature></feature>
+				<page>0019-0022</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣಭಟ್ಟ ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಚಾರ್ಯ ಶಂಕರರ ದರ್ಶನದಲ್ಲಿ ಸಾಧನೆಯ ಸ್ವರೂಪ</title>
+				<feature></feature>
+				<page>0023-0026</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಬಾಲರಾಜ್ ಕೆ. ವೈ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಹೇಶ್ವರ ಸೂತ್ರಗಳ ಚಿಂತನೆ</title>
+				<feature></feature>
+				<page>0027-0029</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಂಗಳ ತುಂಗೆಯ ಜ್ಞಾನಗಂಗೆ</title>
+				<feature></feature>
+				<page>0030-0032</page>
+				<allauthors>
+					<author type="1" title="">ಜಯರಾಮನ್ ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಸ್ಕೃತ ವಾಙ್ಮಯಕ್ಕೆ ಕರ್ನಾಟಕದ ಕೊಡುಗೆ</title>
+				<feature></feature>
+				<page>0033-0035</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆದರ್ಶ ಭಾತೃ ಪ್ರೇಮ</title>
+				<feature></feature>
+				<page>0036-0038</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಯನ್ ಮಾರ್</title>
+				<feature></feature>
+				<page>0039-0042</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಂ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳ ವಿಭಾಗ</title>
+				<feature></feature>
+				<page>0043-0044</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಚಂದ್ರಸೇನ</title>
+				<feature></feature>
+				<page>0043-0044</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್ ಶ್ರೀ">ಶೇಷಗಿರಿಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿಯ ಗಣಪತಿ ವಾಕ್ಯಾರ್ಥ ಸಭಾ</title>
+				<feature></feature>
+				<page>0045-0048</page>
+				<allauthors />
+			</entry>
+		</part>
 		<part pnum="0" month="" year="" maasa="" samvatsara="">
 			<entry>
 				<title></title>
@@ -24451,631 +25596,7 @@
 				<allauthors>
 					<author type="1" title=""></author>
 				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
-			</entry>
+			</entry>	
 			<entry>
 				<title></title>
 				<feature></feature>
