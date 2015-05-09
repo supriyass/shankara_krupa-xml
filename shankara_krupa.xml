@@ -27489,16 +27489,14 @@
 				<title>ಶ್ರೀ ಲಲಿತಾ ಪಂಚರತ್ನಂ</title>
 				<feature></feature>
 				<page>0003-0004</page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
 				<feature></feature>
 				<page>0005-0012</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27506,7 +27504,7 @@
 				<feature></feature>
 				<page>0013-0016</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27514,7 +27512,7 @@
 				<feature></feature>
 				<page>0017-0020</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27522,7 +27520,7 @@
 				<feature></feature>
 				<page>0021-0021</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಅನಂತಂ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27530,23 +27528,21 @@
 				<feature></feature>
 				<page>0022-0022</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಸುಂದರರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಸಂಗಃ ಸತ್ಸು ವಿಧೀಯತೇ</title>
 				<feature></feature>
 				<page>0023-0024</page>
-				<allauthors>
-					<author type="1" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ತಿಂಗಳ ಪುಸ್ತಕ</title>
 				<feature></feature>
 				<page>0025-0029</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ||">ಅಶ್ವತ್ಥನಾರಾಯಣ ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27554,7 +27550,7 @@
 				<feature></feature>
 				<page>0030-0031</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿ ಭಟ್ಟ ಬಿ. ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27562,7 +27558,7 @@
 				<feature></feature>
 				<page>0032-0033</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27570,19 +27566,2131 @@
 				<feature></feature>
 				<page>0034-0039</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
 				<feature></feature>
-				<page>0040-00</page>
+				<page>0040-0040</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2002" maasa="ವೈಶಾಖ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಸಂಪಾದಕರು</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ನಿರ್ವಾಣ ಷಟ್ಕಮ್</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0010</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಿತ್ರದೀಪ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>0011-0014</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುವಂದನ</title>
+				<feature></feature>
+				<page>0015-0018</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುಪರಂಪರಾ ಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0019-0020</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಾಪಗಳಿಗೆ ಏಕಮಾತ್ರ ಪ್ರಾಯಶ್ಚಿತ್ತ ಭಗವನ್ನಾಮ</title>
+				<feature></feature>
+				<page>0021-0026</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರ್ಮದ ಮಹತ್ವ</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author type="1" title="">ನೀವಣೆ ಗಣೇಶ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಸ್ತಿಕ ಆಸ್ತಿಕನಾದ ಕಥೆ</title>
+				<feature></feature>
+				<page>0029-0032</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಅಶ್ವತ್ಥನಾರಾಯಣ ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0033-0034</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಮಯಸ್ಪೂರ್ತಿ</title>
+				<feature></feature>
+				<page>0035-0036</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿ ಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0037-0039</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2002" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ದ್ವಿರೇಫ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮನೀಷಾ ಪಂಚಕಮ್</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0009</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುಪರಂಪರಾ ಸ್ತೋತ್ರಮ್</title>
+				<feature></feature>
+				<page>0010-0011</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುಮ್ಮಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್ ರಚಿಸಿದ ಶ್ರೀ ಶೃಂಗೇರೀಶ್ವರಿ ಶ್ರೀ ನರಸಿಂಹಭಾರತೀ ಸ್ವಾಮಿ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ</title>
+				<feature></feature>
+				<page>0012-0015</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಅಶ್ವತ್ಥನಾರಾಯಣ ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊಲ್ಲೂರಿನಲ್ಲಿ ಮೂಕಾಂಬಿಕೆಗೆ ಶ್ರೀ ಶ್ರೀಗಳವರಿಂದ ಬ್ರಹ್ಮಕಲಶಾಭಿಷೇಕ</title>
+				<feature></feature>
+				<page>0016-0022</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0023-0030</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಆದಿಶಂಕರರ ಜನ್ಮಭೂಮಿಯಲ್ಲಿ (ಕಾಲಟಿಯಲ್ಲಿ) ಜನ್ಮೋತ್ಸವದ ವೈಭವ</title>
+				<feature></feature>
+				<page>0031-0033</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0034-0035</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಿವಿ ಕಚ್ಚಿದ ಕಳ್ಳ</title>
+				<feature></feature>
+				<page>0036-0037</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿ ಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0038-0039</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2002" maasa="ಆಷಾಢ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ದ್ವಿರೇಫ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಪಂಚರತ್ನಮ್</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0013</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಿತ್ರದೀಪ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>0014-0017</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಗವಾನ್ ವೇದವ್ಯಾಸರು</title>
+				<feature></feature>
+				<page>0018-0022</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುಪರಂಪರಾ ಸ್ತೋತ್ರಮ್</title>
+				<feature></feature>
+				<page>0023-0024</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಧುಸೂದನ ಸರಸ್ವತಿ</title>
+				<feature></feature>
+				<page>0025-0029</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನಾಗರಾಜರಾವ್ ಎಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನ್ನದಿಂದಲೇ ಮನಸ್ಸು</title>
+				<feature></feature>
+				<page>0030-0031</page>
+				<allauthors>
+					<author type="1" title="">ನೀವಣೆ ಗಣೇಶ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೇವಾಧರ್ಮ</title>
+				<feature></feature>
+				<page>0032-0033</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುರಸರಸ್ವತಿ ಮಹೋತ್ಸವ</title>
+				<feature></feature>
+				<page>0034-0035</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬುದ್ದಿಯ ಸ್ಥಿರತೆಗೆ ಸರಳ ಉಪಾಯ</title>
+				<feature></feature>
+				<page>0036-0040</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0041-0042</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0043-0044</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0045-0047</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2002" maasa="ಶ್ರಾವಣ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ದ್ವಿರೇಫ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನಾತ್ಮ ಶ್ರೀ ವಿಗರ್ಹಣಮ್</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಿತ್ರದೀಪ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>0009-0012</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ವಿಷ್ಣುಸಹಸ್ರನಾಮ</title>
+				<feature></feature>
+				<page>0013-0018</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶೃಂಗೇರೀಶ್ವರ ಶ್ರೀ ನೃಸಿಂಹಭಾರತೀ ಸ್ವಾಮಿನಾಮಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳೀ</title>
+				<feature></feature>
+				<page>0019-0026</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಅಶ್ವತ್ಥನಾರಾಯಣ ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುಪರಂಪರಾ ಸ್ತೋತ್ರಮ್</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಚಿಕೇತನ ಕಥೆ</title>
+				<feature></feature>
+				<page>0029-0030</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿರುಜ್ಞಾನಸಂಬಂಧಮೂರ್ತಿ ಸ್ವಾಮಿಗಳ್</title>
+				<feature></feature>
+				<page>0031-0036</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೊಂಕಣ ಖಾರ್ವಿ ಸಮಾಜದವರಿಂದ ಗುರುದರ್ಶನ</title>
+				<feature></feature>
+				<page>0037-0037</page>
+				<allauthors>
+					<author type="1" title="">ಶೃಂಗೇರಿ ಜಗದ್ಗುರುಗಳು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಾತುರ್ಮಾಸ್ಯ ಕಾಲದ ಗುರುದರ್ಶನ ವಿಶೇಷ ಫಲಪ್ರದ</title>
+				<feature></feature>
+				<page>0038-0038</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0039-0040</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0041-0042</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಋಗ್ವೇದ ಸಂಹಿತಾಯಾಗ</title>
+				<feature></feature>
+				<page>0043-0045</page>
+				<allauthors>
+					<author type="1" title="">ಶಶಿಧರ ಸೋಮಯಾಜಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2002" maasa="ಭಾದ್ರಪದ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ದ್ವಿರೇಫ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನಾತ್ಮ ಶ್ರೀ ವಿಗರ್ಹಣಮ್</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0009</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಿತ್ರದೀಪ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>0010-0013</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುಪರಂಪರಾ ಸ್ತೋತ್ರಮ್</title>
+				<feature></feature>
+				<page>0014-0015</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಚಿಕೇತನ ಕಥೆ</title>
+				<feature></feature>
+				<page>0016-0017</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾಲೇ ವರ್ಷತು ಪರ್ಜನ್ಯ:</title>
+				<feature></feature>
+				<page>0018-0019</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಪಾಸನೆ</title>
+				<feature></feature>
+				<page>0020-0021</page>
+				<allauthors>
+					<author type="1" title="">ಅನುರಾಧಾ ಕುಲಕರ್ಣಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಾಕ್ಷಾತ್ ಭಗವದ್ವಿಭೂತಿ ಸಾಲಿಗ್ರಾಮ</title>
+				<feature></feature>
+				<page>0022-0024</page>
+				<allauthors>
+					<author type="1" title="">ಶಶಿರೇಖಾ ನಾಗೇಂದ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಸ್ಮೈ ಶ್ರೀ ಗುರುವೇ ನಮಃ</title>
+				<feature></feature>
+				<page>0025-0027</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿ ಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗೆಳೆಯನೆಂಬ ಅರಿವಿನಿಂದಲೇ ಮೋಕ್ಷ</title>
+				<feature></feature>
+				<page>0028-0030</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಚಾರ್ಯ ಕುಮಾರಿಲರು</title>
+				<feature></feature>
+				<page>0031-0035</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿರುಜ್ಞಾನಸಂಬಂಧಮೂರ್ತಿ ಸ್ವಾಮಿಗಳ್</title>
+				<feature></feature>
+				<page>0036-0039</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತತತ್ತ್ವ ಅರಳಿ ನಿಂತ ಗಣಪತ್ಯುಪನಿಷತ್ತು</title>
+				<feature></feature>
+				<page>0040-0042</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವ್ಯಾವಹಾರಿಕ ಶರೀರ</title>
+				<feature></feature>
+				<page>0043-0043</page>
+				<allauthors>
+					<author type="1" title="">ನೀವಣೆ ಗಣೇಶ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಿಷ್ಯಸ್ತೋಮದಿಂದ ಚಾತುರ್ಮಾಸ್ಯ ನಿರತ ಗುರುದರ್ಶನ</title>
+				<feature></feature>
+				<page>0044-0044</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0045-0046</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0047-0047</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2002" maasa="ಆಶ್ವಯುಜ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ದ್ವಿರೇಫ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನಾತ್ಮ ಶ್ರೀ ವಿಗರ್ಹಣಮ್</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0012</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದಭಿನವ ವಿದ್ಯಾತೀರ್ಥ ಮಹಾಸ್ವಾಮಿ ಸೇವಾ ಪದ್ಯಾವಳಿ</title>
+				<feature></feature>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮೈತ್ರೇಯಿ</title>
+				<feature></feature>
+				<page>0014-0017</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿಂಗಳ ಪುಸ್ತಕ</title>
+				<feature></feature>
+				<page>0018-0022</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಅಶ್ವತ್ಥನಾರಾಯಣ ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಾಕ್ತನ ಲೇಖಮಾಲಾ ಸಂಗ್ರಹ</title>
+				<feature></feature>
+				<page>0023-0025</page>
+				<allauthors>
+					<author type="1" title="ಲೇ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರ್ಮದ ಮೂಲಕ ಭಗವತ್ಪ್ರಾಪ್ತಿಯ ಸಾಧನೆ</title>
+				<feature></feature>
+				<page>0026-0030</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಚಿಕೇತನ ಕಥೆ</title>
+				<feature></feature>
+				<page>0031-0032</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿರುಜ್ಞಾನಸಂಬಂಧಮೂರ್ತಿ ಸ್ವಾಮಿಗಳ್</title>
+				<feature></feature>
+				<page>0033-0036</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0037-0043</page>
+				<allauthors>
+					<author type="1" title="">ನಂಜುಂಡ ಸ್ವಾಮಿ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0044-0045</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0046-0046</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶರನ್ನವರಾತ್ರಿ ಉತ್ಸವ</title>
+				<feature></feature>
+				<page>0047-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2002" maasa="ಕಾರ್ತಿಕ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ದ್ವಿರೇಫ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕನಕಧಾರಾ ಸ್ತೋತ್ರಮ್</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0012</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಿತ್ರದೀಪ ಪ್ರಕರಣ</title>
+				<feature></feature>
+				<page>0013-0017</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯಾರು ಶ್ರೇಷ್ಠರು</title>
+				<feature></feature>
+				<page>0018-0019</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರ ಭಗವತ್ಪೂಜ್ಯಪಾದಾಚಾರ್ಯ ಸ್ತವಃ</title>
+				<feature></feature>
+				<page>0020-0022</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನಚಿಕೇತನ ಕಥೆ</title>
+				<feature></feature>
+				<page>0023-0024</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗಣಪತಿ ವಾಕ್ಯಾರ್ಥ ಮಹಾಸಭಾ</title>
+				<feature></feature>
+				<page>0025-0030</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಾಕ್ತನ ಲೇಖಮಾಲಾ ಸಂಗ್ರಹ</title>
+				<feature></feature>
+				<page>0031-0031</page>
+				<allauthors>
+					<author type="1" title="ಲೇ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕರ್ಮದ ಮೂಲಕ ಭಗವತ್ಪ್ರಾಪ್ತಿಯ ಸಾಧನೆ</title>
+				<feature></feature>
+				<page>0032-0036</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿರುಜ್ಞಾನಸಂಬಂಧಮೂರ್ತಿ ಸ್ವಾಮಿಗಳ್</title>
+				<feature></feature>
+				<page>0037-0040</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0041-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಗವಂತ ಕೈಬಿಟ್ಟಾಗ....</title>
+				<feature></feature>
+				<page>0042-0042</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿ ಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0043-0045</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2002" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಬಿ. ಎಸ್. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕನಕಧಾರಾ ಸ್ತೋತ್ರಮ್</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0012</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಷಡ್ಜಗೀತಾ</title>
+				<feature></feature>
+				<page>0013-0015</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಗವದ್ಗೀತೆಯಲ್ಲಿ ತಪಸ್ಸು</title>
+				<feature></feature>
+				<page>0016-0017</page>
+				<allauthors>
+					<author type="1" title="">ನಾಗರಾಜರಾವ್ ಎಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕನ್ನಡದ ಮೊದಲ ಅದ್ವೈತ ಕವಿ ನಾಗವರ್ಮಾಚಾರ್ಯ</title>
+				<feature></feature>
+				<page>0018-0020</page>
+				<allauthors>
+					<author type="1" title="">ನಂಜುಂಡಸ್ವಾಮಿ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೇದ ವಿಕೃತಿ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣಭಟ್ಟ ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೀಪಗಳ ಹಬ್ಬ - ದೀಪಾವಳಿ</title>
+				<feature></feature>
+				<page>0025-0027</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಚಿಕೇತನ ಕಥೆ</title>
+				<feature></feature>
+				<page>0028-0029</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿರುಜ್ಞಾನಸಂಬಂಧಮೂರ್ತಿ ಸ್ವಾಮಿಗಳ್</title>
+				<feature></feature>
+				<page>0030-0033</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಪ್ರಿಯವಾದ ಸತ್ಯ</title>
+				<feature></feature>
+				<page>0034-0035</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿ ಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿಂಗಳ ಪುಸ್ತಕ</title>
+				<feature></feature>
+				<page>0036-0039</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಅಶ್ವತ್ಥನಾರಾಯಣ ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0040-0042</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಾಕ್ತನ ಲೇಖಮಾಲಾ ಸಂಗ್ರಹ</title>
+				<feature></feature>
+				<page>0043-0045</page>
+				<allauthors>
+					<author type="1" title="ಲೇ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="40">
+		<part pnum="01" month="01" year="2003" maasa="ಪೌಷ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕನಕಧಾರಾ ಸ್ತೋತ್ರಮ್</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0011</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಧರ್ಮಗಳಲ್ಲಿ ದಾನವು ಶ್ರೇಷ್ಠ</title>
+				<feature></feature>
+				<page>0012-0014</page>
+				<allauthors>
+					<author type="2" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಮ, ದಾನ, ದಯೆ (ದ-ದ-ದ ಉಪದೇಶ)</title>
+				<feature></feature>
+				<page>0015-0016</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವಾಲಯಗಳ ಸಂಪ್ರದಾಯಗಳು</title>
+				<feature></feature>
+				<page>0017-0021</page>
+				<allauthors>
+					<author type="1" title="">ಕೃಷ್ಣಶರ್ಮಾ ಯು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಗವದ್ಗೀತೆಯಲ್ಲಿ ಯೋಗ</title>
+				<feature></feature>
+				<page>0022-0023</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನಾಗರಾಜರಾವ್ ಎಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಷಸ್ತಿಯ ಕಥೆ</title>
+				<feature></feature>
+				<page>0024-0025</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿರುಜ್ಞಾನಸಂಬಂಧಮೂರ್ತಿ ಸ್ವಾಮಿಗಳ್</title>
+				<feature></feature>
+				<page>0026-0030</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ್ಮವಿದ್ಯಾ ವಿಲಾಸ</title>
+				<feature></feature>
+				<page>0031-0033</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಸದಾಶಿವ ಬ್ರಹ್ಮೇಂದ್ರರು</author>
+					<author type="2" title="">ಬೀಯೆಸ್ಸಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಪರೂಪದ ಅವತಾರ, ಆನಂದದ ಆಕಾರ ಶ್ರೀ ದತ್ತಾತ್ರೇಯ</title>
+				<feature></feature>
+				<page>0034-0036</page>
+				<allauthors>
+					<author type="1" title="">ಶಶಿರೇಖಾ ನಾಗೇಂದ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹದಿಮೂರನೆಯ ಶಾಂಕರ ದರ್ಶನ ನಿರ್ವಹಣ ಸಮ್ಮೇಳನ</title>
+				<feature></feature>
+				<page>0037-0038</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭೋಜರಾಜನ ಔದಾರ್ಯ</title>
+				<feature></feature>
+				<page>0039-0039</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿ ಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0040-0045;0047-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2003" maasa="ಮಾಘ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಾನಂದ ಲಹರೀ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0012</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕೇನೋಪನಿಷತ್ತಿನ ಒಂದು ಕಥೆ</title>
+				<feature></feature>
+				<page>0013-0015</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಗವದ್ಗೀತೆಯಲ್ಲಿ ಯಜ್ಞ</title>
+				<feature></feature>
+				<page>0016-0017</page>
+				<allauthors>
+					<author type="1" title="">ನಾಗರಾಜ ರಾವ್ ಎಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಾಹಿತ್ಯ ಮತ್ತು ವೇದಶಾಸ್ತ್ರಗಳ ಸಂರಕ್ಷಣೆಗೆ ಶೃಂಗೇರಿ ಶ್ರೀ ಶಾರದಾ ಪೀಠದ ಕೊಡುಗೆ</title>
+				<feature></feature>
+				<page>0018-0023</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮವಿದ್ಯೆ</title>
+				<feature></feature>
+				<page>0024-0027</page>
+				<allauthors>
+					<author type="1" title="ದಿವಂಗತ ಶ್ರೀ">ದೇವುಡು ನರಸಿಂಹಶಾಸ್ತ್ರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೇದ ವಿಕೃತಿ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0028-0030</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣಭಟ್ಟ ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನರಸಿಂಹ ವನದಲ್ಲಿ ನೂತನ ಗುರುಮಂದಿರ</title>
+				<feature></feature>
+				<page>0031-0032</page>
+				<allauthors>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗನ್ನಾಥ</title>
+				<feature></feature>
+				<page>0033-0034</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿರುಜ್ಞಾನಸಂಬಂಧಮೂರ್ತಿ ಸ್ವಾಮಿಗಳ್</title>
+				<feature></feature>
+				<page>0035-0037</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಂಡಾಡಿ ಗುಂಡ</title>
+				<feature></feature>
+				<page>0038-0039</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿ ಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0041-0047</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2003" maasa="ಫಾಲ್ಗುಣ" samvatsara="ಚಿತ್ರಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಾನಂದ ಲಹರೀ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0013</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮವಿದ್ಯೆ</title>
+				<feature></feature>
+				<page>0014-0016;0020-0020</page>
+				<allauthors>
+					<author type="1" title="ದಿವಂಗತ ಶ್ರೀ">ದೇವುಡು ನರಸಿಂಹಶಾಸ್ತ್ರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಂತ್ರೋಪಾಸನೆ</title>
+				<feature></feature>
+				<page>0017-0020</page>
+				<allauthors>
+					<author type="1" title="">ಕೃಷ್ಣಶರ್ಮಾ ಯ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಷಟ್ ಪ್ರಶ್ನೀ ನಿರ್ವಚನ</title>
+				<feature></feature>
+				<page>0021-0021</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ್ಮವಿದ್ಯಾ ವಿಲಾಸ - 2</title>
+				<feature></feature>
+				<page>0022-0023</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಸದಾಶಿವ ಬ್ರಹ್ಮೇಂದ್ರರು</author>
+					<author type="2" title="">ಬೀಯೆಸ್ಸಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧರ್ಮ : ಲೋಕ-ಆತ್ಮಹಿತಗಳ ಸಮನ್ವಯ</title>
+				<feature></feature>
+				<page>0024-0026</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಮೃತತ್ವ ಪ್ರಾಪ್ತಿ ಹೇಗೆ?</title>
+				<feature></feature>
+				<page>0027-0030</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರೂಪಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಷಸ್ತಿಯ ಕಥೆ - 2</title>
+				<feature></feature>
+				<page>0031-0032;0040-0040</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭರಮಯ್ಯನ ಬಂಡಿ</title>
+				<feature></feature>
+				<page>0033-0034</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿ ಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿರುಜ್ಞಾನಸಂಬಂಧಮೂರ್ತಿ ಸ್ವಾಮಿಗಳ್</title>
+				<feature></feature>
+				<page>0035-0038</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0039-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0041-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2003" maasa="ಚೈತ್ರ" samvatsara="ಸ್ವಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಾನಂದ ಲಹರೀ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜನಕ ಯಾಜ್ಞವಲ್ಕ್ಯರ ಸಂವಾದ</title>
+				<feature></feature>
+				<page>0013-0016</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಧರ್ಮಸಂಸ್ಥಾನ ಮತ್ತು ಅವಿಭಕ್ತ ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲೆ</title>
+				<feature></feature>
+				<page>0017-0020</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥಮಹಾಸ್ವಾಮಿಗಳು</title>
+				<feature></feature>
+				<page>0021-0027</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ್ಮವಿದ್ಯಾ ವಿಲಾಸ - 2</title>
+				<feature></feature>
+				<page>0028-0029</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಸದಾಶಿವ ಬ್ರಹ್ಮೇಂದ್ರರು</author>
+					<author type="2" title="">ಬೀಯೆಸ್ಸಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಷಸ್ತಿಯ ಕಥೆ - 2</title>
+				<feature></feature>
+				<page>0030-0030</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿರುಜ್ಞಾನಸಂಬಂಧಮೂರ್ತಿ ಸ್ವಾಮಿಗಳ್</title>
+				<feature></feature>
+				<page>0031-0033</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0034-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬಹುಮತ</title>
+				<feature></feature>
+				<page>0036-0037</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಶೇಷಗಿರಿ ಭಟ್ಟ ಬಿ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0038-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2003" maasa="ವೈಶಾಖ" samvatsara="ಸ್ವಭಾನು">
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಸಂಪಾದಕರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಾನಂದ ಲಹರೀ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಧರ್ಮಸಂಸ್ಥಾನ ಮತ್ತು ಅವಿಭಕ್ತ ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲೆ</title>
+				<feature></feature>
+				<page>0014-0016</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನನಸಾದ ಕನಸು</title>
+				<feature></feature>
+				<page>0017-0020</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಕ್ತಿಯೋಗ</title>
+				<feature></feature>
+				<page>0021-0023</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಶಿವಶಂಕರ ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ್ಮವಿದ್ಯಾ ವಿಲಾಸ - 4</title>
+				<feature></feature>
+				<page>0024-0025</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಸದಾಶಿವ ಬ್ರಹ್ಮೇಂದ್ರರು</author>
+					<author type="2" title="">ಬೀಯೆಸ್ಸಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುಂದರ ಉದ್ಯಾನ ನರಸಿಂಹವನ</title>
+				<feature></feature>
+				<page>0026-0029</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಾನಶ್ರುತಿಯ ಕಥೆ</title>
+				<feature></feature>
+				<page>0030-0031</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಲಿಕ್ಕಾಮನಾಯನಾರ್</title>
+				<feature></feature>
+				<page>0032-0034</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅರ್ತತ್ರಾಣ ಪರಾಯಣಃ</title>
+				<feature></feature>
+				<page>0035-0036</page>
+				<allauthors>
+					<author type="1" title="">ಅಪ್ಪಾಶಾಸ್ತ್ರೀ ರಾಶಿವಡೇಕರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0037-0039</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರುಗಳ ಆಶೀರ್ವಚನ</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0041-0043</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಾರತೀತೀರ್ಥ ಸೇವಾ ಪ್ರತಿಷ್ಠಾನ</title>
+				<feature></feature>
+				<page>0044-0044</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0045-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0047-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ತತ್ವಜ್ಞಾನಿಗಳ ದಿನ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2003" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ಸ್ವಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಾನಂದ ಲಹರೀ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0009</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಶೃಂಗೇರಿಯಲ್ಲಿ ವೈಭವಯುತವಾಗಿ ನಡೆದ ಗುರುಭವನದ ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವರದಿ</title>
+				<feature></feature>
+				<page>0010-0019</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಮಾರಂಭದ ಚಿತ್ರಗಳ ವಿವರ</title>
+				<feature></feature>
+				<page>0020-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸುದ್ದಿಯಾಗದ ಸೇವಾಕಾರ್ಯಗಳು</title>
+				<feature></feature>
+				<page>0029-0032</page>
+				<allauthors>
+					<author type="1" title="">ಪ್ರಭಾಕರ ಕಾರಂತ ಎಂ. ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಗವದ್ಗೀತೆಯಲ್ಲಿ ಶ್ರದ್ಧೆ</title>
+				<feature></feature>
+				<page>0033-0035</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನಾಗರಾಜರಾವ್ ಎಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಧರ್ಮಸಂಸ್ಥಾನ ಮತ್ತು ಅವಿಭಕ್ತ ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲೆ</title>
+				<feature></feature>
+				<page>0036-0039</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕುಂದಾಪುರದಲ್ಲಿ ವಿಶ್ವ ತತ್ತ್ವಜ್ಞಾನಿಗಳ ದಿನಾಚರಣೆ</title>
+				<feature></feature>
+				<page>0040-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವ್ಯಸನ ವಿಮೋಕ</title>
+				<feature></feature>
+				<page>0042-0042</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಅಪ್ಪಾಶಾಸ್ತ್ರೀ ರಾಶಿವಡೇಕರ</author>
+					<author type="2" title="">ಕೃಷ್ಣಶರ್ಮಾ ಯ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಾನಶ್ರುತಿಯ ಕಥೆ - 2</title>
+				<feature></feature>
+				<page>0043-0043</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0044-0047</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2003" maasa="ಆಷಾಢ" samvatsara="ಸ್ವಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಬಾ. ರಾ. ಕೃ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಾನಂದ ಲಹರೀ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0014</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಚಾತುರ್ಮಾಸ್ಯ ಹಾಗೂ ವೇದವ್ಯಾಸರು</title>
+				<feature></feature>
+				<page>0015-0018</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ್ಮವಿದ್ಯಾ ವಿಲಾಸ</title>
+				<feature></feature>
+				<page>0019-0020</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಸದಾಶಿವ ಬ್ರಹ್ಮೇಂದ್ರರು</author>
+					<author type="2" title="">ಬೀಯೆಸ್ಸಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮನು ಮತ್ತು ಮತ್ಸ್ಯ</title>
+				<feature></feature>
+				<page>0021-0023</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಾನಶ್ರುತಿಯ ಕಥೆ - 3</title>
+				<feature></feature>
+				<page>0024-0025</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಕಚಾಪಲ</title>
+				<feature></feature>
+				<page>0026-0026</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಅಪ್ಪಾಶಾಸ್ತ್ರೀ ರಾಶಿವಡೇಕರ</author>
+					<author type="2" title="">ಕೃಷ್ಣಶರ್ಮಾ ಯ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಯನಾರ್ ಸಂತರು-31</title>
+				<feature></feature>
+				<page>0027-0029</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0030-0033</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾತಿನ ಮಹತ್ವ</title>
+				<feature></feature>
+				<page>0034-0035</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0036-0044</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0045-0047</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2003" maasa="ಶ್ರಾವಣ" samvatsara="ಸ್ವಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಬಿ. ಎಸ್. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಾನಂದ ಲಹರೀ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0005-0009</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಸದ್ಗುರುವಿನ ಅವಶ್ಯಕತೆ</title>
+				<feature></feature>
+				<page>0010-0011</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಸಿದ್ದಾಂತ</title>
+				<feature></feature>
+				<page>0012-0017</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರುಗಳ ನುಡಿ</title>
+				<feature></feature>
+				<page>0018-0018</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸತ್ಯಕಾಮನ ಕಥೆ - 1</title>
+				<feature></feature>
+				<page>0019-0020</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ್ಮವಿದ್ಯಾ ವಿಲಾಸ</title>
+				<feature></feature>
+				<page>0021-0022</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಸದಾಶಿವ ಬ್ರಹ್ಮೇಂದ್ರರು</author>
+					<author type="2" title="">ಬೀಯೆಸ್ಸಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತಿಂಗಳ ಪುಸ್ತಕ</title>
+				<feature></feature>
+				<page>0023-0024</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರಾಮಚಂದ್ರ ಶಾಸ್ತ್ರಿ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹರನೆ ಗುರುವಾದ</title>
+				<feature></feature>
+				<page>0025-0034</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಉಮಾಕಾಂತ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮುದುಕನ ಉಪಾಯ</title>
+				<feature></feature>
+				<page>0035-0035</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ವಾಗೀಶ್ವರೀ ಶಿವರಾಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಯನಾರ್ ಸಂತರು - 32</title>
+				<feature></feature>
+				<page>0036-0038</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0039-0039</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0040-0041</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0042-0043</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿಯ ಶ್ರೀಮಠದಲ್ಲಿ ಮಹಾಸಾರ್ವಭೌಮ ವೀಣೆ</title>
+				<feature></feature>
+				<page>0044-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಶಾರದಾಂಬೆಗೆ ವೈಭವದ ದಸರಾ</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2003" maasa="ಭಾದ್ರಪದ" samvatsara="ಸ್ವಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಬಿ. ಎಸ್. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಾನಂದ ಲಹರೀ</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0006-0011</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಜನಕ, ಗಾರ್ಗಿ ಹಾಗೂ ಯಾಜ್ಞವಲ್ಕ್ಯ</title>
+				<feature></feature>
+				<page>0012-0015</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಟಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಾಮಾನ್ಯ ಸಮಸ್ಯೆಗಳಿಗೆ ಧಾರ್ಮಿಕ ಪರಿಹಾರ</title>
+				<feature></feature>
+				<page>0016-0020</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಸೂರ್ಯನಾರಾಯಣರಾವ್ ಎಂ. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ್ಮಜ್ಞಾನ</title>
+				<feature></feature>
+				<page>0021-0028</page>
+				<allauthors>
+					<author type="1" title="">ವೆಲ್ಲಾಲ ನಾಗರಾಜಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ್ಮವಿದ್ಯಾ ವಿಲಾಸ - 7</title>
+				<feature></feature>
+				<page>0029-0030</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಸದಾಶಿವ ಬ್ರಹ್ಮೇಂದ್ರರು</author>
+					<author type="2" title="">ಬೀಯೆಸ್ಸಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ಥಿತಪ್ರಜ್ಞೆ</title>
+				<feature></feature>
+				<page>0031-0032</page>
+				<allauthors>
+					<author type="1" title="">ಪ್ರಭುಪ್ರಸಾದ್ ಎನ್. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸತ್ಯಕಾಮನ ಕಥೆ - 2</title>
+				<feature></feature>
+				<page>0033-0036</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಜ್ಞಾನಾನಂದ ಭಾರತೀ ಸ್ವಾಮಿಗಳು</author>
+					<author type="2" title="">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಯನಾರ್ ಸಂತರು - 33</title>
+				<feature></feature>
+				<page>0037-0038</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0039-0039</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶರೀರದ ಅವಯವಗಳಲ್ಲಿ ಜಗಳ</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ವಾಗೀಶ್ವರೀ ಶಿವರಾಮ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0041-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವೈರಾಗ್ಯ ಶತಕ</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಾಮಕೃಷ್ಣರಾವ್ ಬಿ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮಠದ ಮಾಸಿಕ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2003" maasa="ಆಶ್ವಯುಜ" samvatsara="ಸ್ವಭಾನು">
+			<entry>
+				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಬಿ. ಎಸ್. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಾನಂದ ಲಹರೀ</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಪ್ರವಚನ</title>
+				<feature></feature>
+				<page>0006-0011</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜೀವನಿಗೆ ಕರ್ತೃತ್ವವುಂಟೆ?</title>
+				<feature></feature>
+				<page></page>
 				<allauthors>
 					<author type="1" title=""></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="0" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>ಭಗವಾನ್ ವೇದವ್ಯಾಸರು</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಮ್ಮೆಲ್ಲರ ಹೆಮ್ಮೆಯ ಗುರುಪೀಠ</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗುರುಶತಕಮ್</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ್ಮವಿದ್ಯಾ ವಿಲಾಸ - 8</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
@@ -27590,7 +29698,95 @@
 				<allauthors>
 					<author type="1" title=""></author>
 				</allauthors>
-			</entry>	
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
