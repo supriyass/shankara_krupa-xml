@@ -35301,7 +35301,7 @@
 				<title>ಶೃಂಗೇರಿ ಮಠದ ಕಡತಗಳಲ್ಲಿಯ ಚಾರಿತ್ರಿಕ ದಾಖಲೆಗಳು</title>
 				<feature></feature>
 				<page>0033-0036</page>
-				<allauthors />
+				<allauthors>
 					<author type="1" title="">ನಂಜುಂಡಸ್ವಾಮಿ ಎಸ್.</author>
 				</allauthors>
 			</entry>
@@ -35435,7 +35435,7 @@
 				<title>ಶೃಂಗೇರಿ ಮಠದ ಕಡತಗಳಲ್ಲಿಯ ಚಾರಿತ್ರಿಕ ದಾಖಲೆಗಳು</title>
 				<feature></feature>
 				<page>0028-0032</page>
-				<allauthors />
+				<allauthors>
 					<author type="1" title="">ನಂಜುಂಡಸ್ವಾಮಿ ಎಸ್.</author>
 				</allauthors>
 			</entry>
@@ -35724,631 +35724,1558 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="0" month="" year="" maasa="" samvatsara="">
+		<part pnum="06" month="06" year="2008" maasa="ವೈಶಾಖ/ಜ್ಯೇಷ್ಠ" samvatsara="ಸರ್ವಧಾರೀ">
 			<entry>
-				<title></title>
+				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0002-0002</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯತಿಪಂಚಕಮ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0003-0003</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅನಾತ್ಮಶ್ರೀ ವಿಗರ್ಹಣಮ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
+				<feature></feature>
+				<page>0005-0008</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಗುರು ತಪೋಮಹಿಮಾ-20</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0012</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ ಶ್ರೀ">ಶಂಕರಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-30</title>
 				<feature></feature>
-				<page></page>
+				<page>0013-0017</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶಾಂಕರ ಸೂಕ್ತಿ ಮಣಿಹಾರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0018-0019</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮೀಮಾಂಸಾ ಶಾಸ್ತ್ರನಡೆದು ಬಂದ ದಾರಿ-11</title>
 				<feature></feature>
-				<page></page>
+				<page>0020-0024</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅಧ್ಯಾತ್ಮರಾಮಾಯಣದಲ್ಲಿ ಕಂಡು ಬರುವ ಅದ್ವೈತಪರ ತತ್ವಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0025-0026</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗ ವಾಸಿಷ್ಠ ಸಂಗ್ರಹ</title>
 				<feature></feature>
-				<page></page>
+				<page>0027-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಡಾ||">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಭಕ್ತಿ ರಸಾಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0031</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪ್ರಜೆಗಳಿಗೆ ಪೃಥು ಮಹಾರಾಜನ ಉಪದೇಶ-2</title>
 				<feature></feature>
-				<page></page>
+				<page>0032-0033</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಷೋಡಶ ಸಂಸ್ಕಾರಗಳು ಇಂದಿನ ಪರಿಸರದಲ್ಲಿ</title>
 				<feature></feature>
-				<page></page>
+				<page>0034-0035</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ರಮಾ ಕೆ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ವಿಕ್ರೀತಂ ಮಧ್ಯಮಂ ಮನ್ಯೇ</title>
 				<feature></feature>
-				<page></page>
+				<page>0036-0037</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಯಲ್ಲಾಪುರ ಕೃಷ್ಣಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ವಿಷ್ಣುಸಹಸ್ರನಾಮ ಫಲ</title>
 				<feature></feature>
-				<page></page>
+				<page>0038-0038</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಅನಸೂಯ ರಾಜೀವ್ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0039-0047</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
-				<page></page>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2008" maasa="ಜ್ಯೇಷ್ಠ / ಆಷಾಢ" samvatsara="ಸರ್ವಧಾರೀ">
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature></feature>
+				<page>0002-0002</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅನಾತ್ಮಶ್ರೀ ವಿಗರ್ಹಣಮ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0003-0004</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
 				<feature></feature>
-				<page></page>
+				<page>0005-0008</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಗುರು ತಪೋಮಹಿಮಾ-21</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0011</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ ಶ್ರೀ">ಶಂಕರಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-31</title>
 				<feature></feature>
-				<page></page>
+				<page>0012-0014</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶಾಂಕರ ಸೂಕ್ತಿ ಮಣಿಹಾರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0015-0016</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮೀಮಾಂಸಾ ಶಾಸ್ತ್ರನಡೆದು ಬಂದ ದಾರಿ-12</title>
 				<feature></feature>
-				<page></page>
+				<page>0017-0021</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅಧ್ಯಾತ್ಮರಾಮಾಯಣದಲ್ಲಿ ಕಂಡು ಬರುವ ಅದ್ವೈತಪರ ತತ್ವಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0022-0023</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗ ವಾಸಿಷ್ಠ ಸಂಗ್ರಹ</title>
 				<feature></feature>
-				<page></page>
+				<page>0024-0025</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಡಾ||">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜೈಗೀಷವ್ಯನ ಅನುಭವ</title>
 				<feature></feature>
-				<page></page>
+				<page>0026-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಯಲ್ಲಾಪುರ ಕೃಷ್ಣಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಪ್ರಿಯವ್ರತ ಚರಿತೆ</title>
+				<feature></feature>
+				<page>0029-0030</page>
+				<allauthors>
+					<author type="1" title="">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗರ್ಭಾಧಾನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0031-0032</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ರಮಾ ಕೆ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪುಣ್ಯಕ್ಷೇತ್ರ ಶೃಂಗೇರಿ : ಪ್ರಶ್ನೋತ್ತರ ರೂಪದಲ್ಲಿ</title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0033</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ದೀಪ</title>
 				<feature></feature>
-				<page></page>
+				<page>0034-0036</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ವೆಂಕಟೇಶ ಭಟ್ಟ ಎಮ್. ಎ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಉಪನಿಷತ್ ತತ್ತ್ವ ಸಮೀಕ್ಷೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0037-0038</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ಉದಯಶಂಕರ್ ಎನ್. ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಚಾತುರ್ಮಾಸ್ಯ ವ್ರತ</title>
 				<feature></feature>
-				<page></page>
+				<page>0039-0040</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸಂಧ್ಯಾವಂದನೆಯ ವೈಶಿಷ್ಟ್ಯಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0043</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ಗೀತಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0044-0045</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0046-0047</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
-				<page></page>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2008" maasa="ಆಷಾಢ/ಶ್ರಾವಣ" samvatsara="ಸರ್ವಧಾರೀ">
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature></feature>
+				<page>0002-0002</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅನಾತ್ಮಶ್ರೀ ವಿಗರ್ಹಣಮ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0003-0004</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
 				<feature></feature>
-				<page></page>
+				<page>0005-0009</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಗುರು ತಪೋಮಹಿಮಾ-22</title>
 				<feature></feature>
-				<page></page>
+				<page>0010-0012</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ ಶ್ರೀ">ಶಂಕರಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-32</title>
 				<feature></feature>
-				<page></page>
+				<page>0013-0015</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶಾಂಕರ ಸೂಕ್ತಿ ಮಣಿಹಾರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0016-0017</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅಧ್ಯಾತ್ಮರಾಮಾಯಣದಲ್ಲಿ ಕಂಡು ಬರುವ ಅದ್ವೈತಪರ ತತ್ವಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0018-0019</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಧರ್ಮ ಮತ್ತು ವಿಜ್ಞಾನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0020-0023</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗ ವಾಸಿಷ್ಠ ಸಂಗ್ರಹ</title>
 				<feature></feature>
-				<page></page>
+				<page>0024-0025</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಡಾ||">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ದೇವತಾರ್ಚನೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0026-0029</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ವೆಂಕಟೇಶಭಟ್ಟ ಎಂ. ಎ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪುಂಸವನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0030-0031</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ರಮಾ ಕೆ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪ್ರಿಯವ್ರತ ಚರಿತೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0032-0033</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಉಪನಿಷತ್ ತತ್ತ್ವ ಸಮೀಕ್ಷೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0034-0038</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ಉದಯಶಂಕರ್ ಎನ್. ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪುಣ್ಯಕ್ಷೇತ್ರ ಶೃಂಗೇರಿ : ಪ್ರಶ್ನೋತ್ತರ ರೂಪದಲ್ಲಿ</title>
 				<feature></feature>
-				<page></page>
+				<page>0039-0039</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೇಯೋಮಾರ್ಗ</title>
 				<feature></feature>
-				<page></page>
+				<page>0040-0043</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
 				<feature></feature>
-				<page></page>
+				<page>0044-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0047-0047</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
-				<page></page>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2008" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ಸರ್ವಧಾರೀ">
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature></feature>
+				<page>0002-0002</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅನಾತ್ಮಶ್ರೀ ವಿಗರ್ಹಣಮ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0003-0004</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
 				<feature></feature>
-				<page></page>
+				<page>0005-0008</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಗುರು ತಪೋಮಹಿಮಾ-23</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0011</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ ಶ್ರೀ">ಶಂಕರಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-34</title>
 				<feature></feature>
-				<page></page>
+				<page>0012-0015</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶಾಂಕರ ಸೂಕ್ತಿ ಮಣಿಹಾರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0016-0017</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮೀಮಾಂಸಾ ಶಾಸ್ತ್ರನಡೆದು ಬಂದ ದಾರಿ-13</title>
 				<feature></feature>
-				<page></page>
+				<page>0018-0023</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅಧ್ಯಾತ್ಮರಾಮಾಯಣದಲ್ಲಿ ಕಂಡು ಬರುವ ಅದ್ವೈತಪರ ತತ್ವಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0024-0026</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಧರ್ಮ ಮತ್ತು ವಿಜ್ಞಾನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0027-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗ ವಾಸಿಷ್ಠ ಸಂಗ್ರಹ</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0030</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಡಾ||">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸೀಮಂತೋನ್ನಯನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0031-0032</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ರಮಾ ಕೆ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಉಪನಿಷತ್ ತತ್ತ್ವ ಸಮೀಕ್ಷೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0035</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ಉದಯಶಂಕರ್ ಎನ್. ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪುತ್ರರಿಗೆ ಋಷಭದೇವನ ಉಪದೇಶ</title>
 				<feature></feature>
-				<page></page>
+				<page>0036-0037</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶೃಂಗೇರಿ ತಾಲೂಕಿನ ಶಾಸನಗಳ ಸಮೀಕ್ಷೆ - 1</title>
 				<feature></feature>
-				<page></page>
+				<page>0038-0040</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ನಂಜುಂಡಸ್ವಾಮಿ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0047</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಸೋಮಯಾಜಿ ಕೆ. ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
-				<page></page>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2008" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ಸರ್ವಧಾರೀ">
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature></feature>
+				<page>0002-0002</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಗುರ್ವಷ್ಟಕಮ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0003-0004</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
 				<feature></feature>
-				<page></page>
+				<page>0005-0008</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಗುರು ತಪೋಮಹಿಮಾ-24</title>
 				<feature></feature>
-				<page></page>
+				<page>0009-0012</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ ಶ್ರೀ">ಶಂಕರಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-35</title>
 				<feature></feature>
-				<page></page>
+				<page>0013-0015</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶ್ರೀ ಶಾಂಕರ ಸೂಕ್ತಿ ಮಣಿಹಾರ</title>
 				<feature></feature>
-				<page></page>
+				<page>0016-0017</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮೀಮಾಂಸಾ ಶಾಸ್ತ್ರನಡೆದು ಬಂದ ದಾರಿ-14</title>
 				<feature></feature>
-				<page></page>
+				<page>0018-0022</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅಧ್ಯಾತ್ಮರಾಮಾಯಣದಲ್ಲಿ ಕಂಡು ಬರುವ ಅದ್ವೈತಪರ ತತ್ವಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0023-0025</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಯೋಗ ವಾಸಿಷ್ಠ ಸಂಗ್ರಹ</title>
 				<feature></feature>
-				<page></page>
+				<page>0026-0027</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಡಾ||">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಬೃಹದಾರಣ್ಯಕೋಪನಿಷತ್</title>
 				<feature></feature>
-				<page></page>
+				<page>0028-0032</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಡಾ||">ಉದಯಶಂಕರ್ ಎನ್. ಕೆ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪುತ್ರರಿಗೆ ಋಷಭದೇವನ ಉಪದೇಶ</title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0035</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಮಹೇಶ್ವರ ಧ್ಯಾನ</title>
 				<feature></feature>
-				<page></page>
+				<page>0036-0040</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಪಂಡಿತರಾಜ">ರಾಮಚಂದ್ರ ಶಾಸ್ತ್ರಿ ವೇ. ಸು.</author>
+					<author type="2" title="">ಯಲ್ಲಾಪುರ ಕೃಷ್ಣಶರ್ಮಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶೃಂಗೇರಿ ತಾಲೂಕಿನ ಶಾಸನಗಳ ಸಮೀಕ್ಷೆ - 2</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0043</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ನಂಜುಂಡಸ್ವಾಮಿ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
 				<feature></feature>
-				<page></page>
+				<page>0044-0047</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ವೆಂಕಟೇಶ ಭಟ್ಟ ಎಮ್. ಎ.</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2008" maasa="ಕಾರ್ತಿಕ/ಮಾರ್ಗಶೀರ್ಷ" samvatsara="ಸರ್ವಧಾರೀ">
+			<entry>
+				<title>ಪ್ರಕಾಶಕೀಯ</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರ್ವಷ್ಟಕಮ್</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗುರು ತಪೋಮಹಿಮಾ-25</title>
+				<feature></feature>
+				<page>0009-0011</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ ಶ್ರೀ">ಶಂಕರಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-36</title>
+				<feature></feature>
+				<page>0012-0015</page>
+				<allauthors>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಾಂಕರ ಸೂಕ್ತಿ ಮಣಿಹಾರ</title>
+				<feature></feature>
+				<page>0016-0017</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೀಮಾಂಸಾ ಶಾಸ್ತ್ರನಡೆದು ಬಂದ ದಾರಿ-14</title>
+				<feature></feature>
+				<page>0018-0023</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾತ್ಮರಾಮಾಯಣದಲ್ಲಿ ಕಂಡು ಬರುವ ಅದ್ವೈತಪರ ತತ್ವಗಳು</title>
+				<feature></feature>
+				<page>0024-0026</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗ ವಾಸಿಷ್ಠ ಸಂಗ್ರಹ</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಛಾಂದೋಗ್ಯೋಪನಿಷತ್</title>
+				<feature></feature>
+				<page>0029-0034</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಉದಯಶಂಕರ್ ಎನ್. ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಾಜ ರಹೂಗಣನಿಗೆ ಭರತನ ಉಪದೇಶ</title>
+				<feature></feature>
+				<page>0035-0036</page>
+				<allauthors>
+					<author type="1" title="">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮಾಂಡ</title>
+				<feature></feature>
+				<page>0037-0039</page>
+				<allauthors>
+					<author type="1" title="">ಯಲ್ಲಾಪುರ ಕೃಷ್ಣಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶ್ನೋತ್ತರ</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸತ್ಸಂಗದ ಮಹಿಮೆ</title>
+				<feature></feature>
+				<page>0041-0043</page>
+				<allauthors>
+					<author type="1" title="">ಕಾರಕೋಡ್ಲು ಗುರುಮೂರ್ತಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0044-0047</page>
+				<allauthors>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2008" maasa="ಮಾರ್ಗಶೀರ್ಷ/ಪುಷ್ಯ" samvatsara="ಸರ್ವಧಾರೀ">
+			<entry>
+				<title>ಪ್ರಕಾಶಕೀಯ</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಶಾಂಕರ ಸ್ತೋತ್ರ ಮುಕ್ತಾವಲಿಃ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
+				<feature></feature>
+				<page>0005-0007</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗುರು ತಪೋಮಹಿಮಾ-25</title>
+				<feature></feature>
+				<page>0008-0009</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ ಶ್ರೀ">ಶಂಕರಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-36</title>
+				<feature></feature>
+				<page>0010-0013</page>
+				<allauthors>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಾಂಕರ ಸೂಕ್ತಿ ಮಣಿಹಾರ</title>
+				<feature></feature>
+				<page>0014-0015</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೀಮಾಂಸಾ ಶಾಸ್ತ್ರನಡೆದು ಬಂದ ದಾರಿ-14</title>
+				<feature></feature>
+				<page>0016-0019</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾತ್ಮರಾಮಾಯಣದಲ್ಲಿ ಕಂಡು ಬರುವ ಅದ್ವೈತಪರ ತತ್ವಗಳು</title>
+				<feature></feature>
+				<page>0020-0021</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗ ವಾಸಿಷ್ಠ ಸಂಗ್ರಹ</title>
+				<feature></feature>
+				<page>0022-0023</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜಾತಕರ್ಮ</title>
+				<feature></feature>
+				<page>0024-0025</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಮಾ ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭವಾರಣ್ಯದ ವರ್ಣನೆ</title>
+				<feature></feature>
+				<page>0026-0027</page>
+				<allauthors>
+					<author type="1" title="">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಂಠಹಾರ</title>
+				<feature></feature>
+				<page>0028-0029</page>
+				<allauthors>
+					<author type="1" title="">ಯಲ್ಲಾಪುರ ಕೃಷ್ಣಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸರಸ್ವತೀ</title>
+				<feature></feature>
+				<page>0030-0035</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಮಾನಂದ ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಮಠದ ಕಡತಗಳಲ್ಲಿಯ ಚಾರಿತ್ರಿಕ ದಾಖಲೆಗಳು</title>
+				<feature></feature>
+				<page>0036-0037</page>
+				<allauthors>
+					<author type="1" title="">ನಂಜುಂಡಸ್ವಾಮಿ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಪಂಚದ (ಪುಟ್ಟ) ಪರಿಪೂರ್ಣ ಗ್ರಂಥ ಭಗವದ್ಗೀತೆ</title>
+				<feature></feature>
+				<page>0038-0041</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಣ್ಯಕ್ಷೇತ್ರ ಶೃಂಗೇರಿ : ಪ್ರಶ್ನೋತ್ತರ ರೂಪದಲ್ಲಿ</title>
+				<feature></feature>
+				<page>0042-0042</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0043-0047</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಿವಕುಮಾರ ಟಿ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="46">
+		<part pnum="01" month="01" year="2009" maasa="ಪುಷ್ಯ/ಮಾಘ" samvatsara="ಸರ್ವಧಾರೀ">
+			<entry>
+				<title>ಸಂಪಾದಕರ ಮಾತು</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>ಮೋಹ ಮುದ್ಗರಃ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗುರು ತಪೋಮಹಿಮಾ-26</title>
+				<feature></feature>
+				<page>0009-0010</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ ಶ್ರೀ">ಶಂಕರಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-37</title>
+				<feature></feature>
+				<page>0011-0013</page>
+				<allauthors>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಾಂಕರ ಸೂಕ್ತಿ ಮಣಿಹಾರ</title>
+				<feature></feature>
+				<page>0014-0015</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೀಮಾಂಸಾ ಶಾಸ್ತ್ರನಡೆದು ಬಂದ ದಾರಿ-15</title>
+				<feature></feature>
+				<page>0016-0020</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಾರ್ಥಕ ಬಾಳು</title>
+				<feature></feature>
+				<page>0021-0023</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾತ್ಮರಾಮಾಯಣದಲ್ಲಿ ಕಂಡು ಬರುವ ಅದ್ವೈತಪರ ತತ್ವಗಳು</title>
+				<feature></feature>
+				<page>0024-0025</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧರ್ಮಕ್ಷೇತ್ರ-ಕುರುಕ್ಷೇತ್ರ</title>
+				<feature></feature>
+				<page>0026-0027</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗವಾಸಿಷ್ಠ ಸಂಗ್ರಹ</title>
+				<feature></feature>
+				<page>0028-0029</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುಭಗೋದಯ ಸ್ತೋತ್ರಮ್</title>
+				<feature></feature>
+				<page>0030-0032</page>
+				<allauthors>
+					<author type="1" title="">ಯಲ್ಲಾಪುರ ಕೃಷ್ಣಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನಾಮಕರಣ</title>
+				<feature></feature>
+				<page>0033-0034</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಮಾ ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭವಾರಣ್ಯದ ವರ್ಣನೆ</title>
+				<feature></feature>
+				<page>0035-0035</page>
+				<allauthors>
+					<author type="1" title="">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ತಾಲ್ಲೂಕಿನ ಶಾಸನಗಳು-4</title>
+				<feature></feature>
+				<page>0036-0037</page>
+				<allauthors>
+					<author type="1" title="">ನಂಜುಂಡಸ್ವಾಮಿ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶ್ನೋತ್ತರ</title>
+				<feature></feature>
+				<page>0038-0038</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0039-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2009" maasa="ಮಾಘ/ಫಾಲ್ಗುಣ" samvatsara="ಸರ್ವಧಾರೀ">
+			<entry>
+				<title>ಸಂಪಾದಕರ ಮಾತು</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>ಮೋಹ ಮುದ್ಗರಃ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
+				<feature></feature>
+				<page>0005-0011</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಗುರು ತಪೋಮಹಿಮಾ-27</title>
+				<feature></feature>
+				<page>0012-0014</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ ಶ್ರೀ">ಶಂಕರಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-38</title>
+				<feature></feature>
+				<page>0015-0016</page>
+				<allauthors>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಾಂಕರಸೂಕ್ತಿ ಮಣಿಹಾರಃ</title>
+				<feature></feature>
+				<page>0017-0018</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೀಮಾಂಸಾ ಶಾಸ್ತ್ರನಡೆದು ಬಂದ ದಾರಿ-16</title>
+				<feature></feature>
+				<page>0019-0024</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾತ್ಮರಾಮಾಯಣದಲ್ಲಿ ಕಂಡು ಬರುವ ಅದ್ವೈತಪರ ತತ್ವಗಳು</title>
+				<feature></feature>
+				<page>0025-0025</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಯೋಗವಾಸಿಷ್ಠ ಸಂಗ್ರಹ</title>
+				<feature></feature>
+				<page>0026-0027</page>
+				<allauthors>
+					<author type="2" title="ಡಾ||">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಅನ್ನಪ್ರಾಶನ</title>
+				<feature></feature>
+				<page>0028-0029</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಮಾ ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಾಲ</title>
+				<feature></feature>
+				<page>0030-0035</page>
+				<allauthors>
+					<author type="1" title="">ವೆಂಕಟರಾಮಯ್ಯ ಎಂ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಜಾಮಿಲೋಪಾಖ್ಯಾನ</title>
+				<feature></feature>
+				<page>0036-0037</page>
+				<allauthors>
+					<author type="1" title="">ಗಾಯತ್ರೀ ವೈ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ತಾಲ್ಲೂಕಿನ ಶಾಸನಗಳು-5</title>
+				<feature></feature>
+				<page>0038-0043</page>
+				<allauthors>
+					<author type="1" title="">ನಂಜುಂಡಸ್ವಾಮಿ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0044-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2009" maasa="ಫಾಲ್ಗುಣ/ಚೈತ್ರ" samvatsara="ಸರ್ವಧಾರೀ/ವಿರೋಧಿ">
+			<entry>
+				<title>ಸಂಪಾದಕರ ಮಾತು</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>ಮೋಹ ಮುದ್ಗರಃ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
+				<feature></feature>
+				<page>0005-0007</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಾಂಕರಸೂಕ್ತಿ ಮಣಿಹಾರಃ</title>
+				<feature></feature>
+				<page>0008-0009</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಸಾಧಾರಣ ಮಹಿಮಾನ್ವಿತ ತಪಸ್ವೀ</title>
+				<feature></feature>
+				<page>0010-0015</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-39</title>
+				<feature></feature>
+				<page>0016-0020</page>
+				<allauthors>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಧರ್ಮಸಂಸ್ಥಾನದ ಅವಿಚ್ಛಿನ್ನ ಗುರುಪರಂಪರೆ</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀಗಳವರ ಬಾಲ್ಯ, ವಿದ್ಯಾಭ್ಯಾಸ</title>
+				<feature></feature>
+				<page>0025-0026</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ||">ರವಿಕುಮಾರ್ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಾರದಾಪೀಠವನ್ನು ಅಲಂಕರಿಸಿದ ಮಹಾನ್ ಸಾಧಕರು</title>
+				<feature></feature>
+				<page>0027-0029</page>
+				<allauthors>
+					<author type="1" title="">ಪ್ರಭುಪ್ರಸಾದ್ ಎನ್. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಂಪರಾ ವಿದ್ಯೆಯ ಪರಮಾನಂದ</title>
+				<feature></feature>
+				<page>0030-0032</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಗಣಪತಿ ಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಕ್ತರ ಪಾಲಿನ ಭಗವಂತರಿವರು</title>
+				<feature></feature>
+				<page>0033-0039</page>
+				<allauthors>
+					<author type="1" title="">ಪ್ರಭಾಕರ ಕಾರಂತ್ ಎಂ. ಎಂ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಪೌರುಷೇಯ ಶ್ರುತಿ - ಒಂದು ಚಿಂತನೆ</title>
+				<feature></feature>
+				<page>0040-0044</page>
+				<allauthors>
+					<author type="1" title="">ವಿಶ್ವನಾಥ ಸುಂಕಸಾಳ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0045-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2009" maasa="ಚೈತ್ರ/ವೈಶಾಖ" samvatsara="ವಿರೋಧಿ">
+			<entry>
+				<title>ಸಂಪಾದಕರ ಮಾತು</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>ಮೋಹ ಮುದ್ಗರಃ</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಪಂಚರತ್ನಮ್</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
+				<feature></feature>
+				<page>0005-0007</page>
+				<allauthors>
+					<author type="2" title="ಪ್ರೊ||">ಕೃಷ್ಣಮೂರ್ತಿ ಕೆ. ಜಿ.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>ಬ್ರಹ್ಮವಿದ್ಯೆಗೆ ಅಧಿಕಾರ ವೈರಾಗ್ಯ ಸಾಧನ</title>
+				<feature></feature>
+				<page>0008-0011</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಚಾರ್ಯ ಶಂಕರರ ವಿಷ್ಣುಸ್ತೋತ್ರಗಳು</title>
+				<feature></feature>
+				<page>0012-0017</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ ಸಾಧನೆಗೆ ಹಾದಿ</title>
+				<feature></feature>
+				<page>0018-0024</page>
+				<allauthors>
+					<author type="1" title="">ಪ್ರಭುಪ್ರಸಾದ್ ಎನ್. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರರ ಪ್ರಕರಣ ಗ್ರಂಥಗಳು</title>
+				<feature></feature>
+				<page>0025-0027</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಂಗನಾಥ ಬಿ. ಜೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಂಕರಾಚಾರ್ಯರ ಕಾಲನಿರ್ಣಯ ಸಿದ್ಧಾಂತಗಳು</title>
+				<feature></feature>
+				<page>0028-0032</page>
+				<allauthors>
+					<author type="1" title="">ನಂಜುಂಡಸ್ವಾಮಿ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಪತ್ತು</title>
+				<feature></feature>
+				<page>0033-0037</page>
+				<allauthors>
+					<author type="1" title="">ವೆಂಕಟರಾಮಯ್ಯ ಎಂ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಭಗವತ್ಪಾದ ಶಂಕರರು</title>
+				<feature></feature>
+				<page>0038-0039</page>
+				<allauthors>
+					<author type="1" title="">ಪ್ರಮೀಳ ರಾವ್ ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರರ ಕುರಿತು</title>
+				<feature></feature>
+				<page>0040-0042</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0043-0043</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯ ಎನ್. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0044-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2009" maasa="ವೈಶಾಖ/ಜ್ಯೇಷ್ಠ" samvatsara="ವಿರೋಧಿ">
+			<entry>
+				<title>ಸಂಪಾದಕರ ಮಾತು</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author type="1" title="">ಗೌರೀಶಂಕರ್ ವಿ. ಆರ್.</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>ಅದ್ವೈತ ಪಂಚರತ್ನಂ</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author type="2" title="ಚಿ||">ವಿಶ್ವನಾಥ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅನುಗ್ರಹ ಸಂದೇಶ</title>
+				<feature></feature>
+				<page>0005-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಾಂಕರಸೂಕ್ತಿ ಮಣಿಹಾರಃ</title>
+				<feature></feature>
+				<page>0008-0009</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಿವಲೀಲಾರ್ಣವಮ್-39</title>
+				<feature></feature>
+				<page>0010-0015</page>
+				<allauthors>
+					<author type="1" title="ವಿದುಷೀ ಶ್ರೀಮತಿ">ಅನಂತಲಕ್ಷ್ಮೀ ನಟರಾಜನ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೀಮಾಂಸಾಶಾಸ್ತ್ರ ನಡೆದು ಬಂದ ದಾರಿ-17</title>
+				<feature></feature>
+				<page>0016-0020</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರೀ ಎಂ. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅತಿಥಿ ಸತ್ಕಾರ</title>
+				<feature></feature>
+				<page>0021-0023</page>
+				<allauthors>
+					<author type="1" title="">ಅನಂತ ಕೆ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಯತ್ನ</title>
+				<feature></feature>
+				<page>0024-0031</page>
+				<allauthors>
+					<author type="1" title="">ವೆಂಕಟರಾಮಯ್ಯ ಎಂ. ಆರ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಉಪನಯನ</title>
+				<feature></feature>
+				<page>0032-0037</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ರಮಾ ಕೆ. ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿ ಶಾಸನಗಳು-6</title>
+				<feature></feature>
+				<page>0038-0041</page>
+				<allauthors>
+					<author type="1" title="">ನಂಜುಂಡಸ್ವಾಮಿ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪ್ರಶ್ನೋತ್ತರ</title>
+				<feature></feature>
+				<page>0042-0042</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕ್ಷೇತ್ರ ವಾರ್ತೆಗಳು</title>
+				<feature></feature>
+				<page>0043-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2009" maasa="ಜ್ಯೇಷ್ಠ/ಆಷಾಢ" samvatsara="ವಿರೋಧಿ">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>	
 			<entry>
 				<title></title>
 				<feature></feature>
