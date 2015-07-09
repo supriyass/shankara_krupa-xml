@@ -25188,7 +25188,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="07" month="07" year="2000" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ವಿಕ್ರಮ">
+		<part pnum="07" month="07" year="2000" maasa="ಆಷಾಢ" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -25308,7 +25308,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" month="08" year="2000" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ವಿಕ್ರಮ">
+		<part pnum="08" month="08" year="2000" maasa="ಶ್ರಾವಣ" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -25406,7 +25406,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="10" year="2000" maasa="ಆಶ್ವಯುಜ" samvatsara="ವಿಕ್ರಮ">
+		<part pnum="09" month="09" year="2000" maasa="ಭಾದ್ರಪದ" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -25512,7 +25512,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="10" month="11" year="2000" maasa="ಕಾರ್ತಿಕ" samvatsara="ವಿಕ್ರಮ">
+		<part pnum="10" month="10" year="2000" maasa="ಆಶ್ವಯುಜ" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -25626,7 +25626,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="12" year="2000" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ವಿಕ್ರಮ">
+		<part pnum="11" month="11" year="2000" maasa="ಕಾರ್ತಿಕ" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -25740,7 +25740,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="01" year="2001" maasa="ಪುಷ್ಯ" samvatsara="ವಿಕ್ರಮ">
+		<part pnum="12" month="12" year="2001" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -25832,7 +25832,7 @@
 		</part>
 	</volume>
 	<volume vnum="038">
-		<part pnum="01" month="01" year="2001" maasa="ಮಾಘ" samvatsara="ವಿಕ್ರಮ">
+		<part pnum="01" month="01" year="2001" maasa="ಪುಷ್ಯ" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -30944,7 +30944,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="08" year="2004" maasa="ನಿಜ ಶ್ರಾವಣ" samvatsara="ತಾರಣ">
+		<part pnum="09" month="09" year="2004" maasa="ಭಾದ್ರಪದ" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
 				<feature></feature>
@@ -31053,7 +31053,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="09" year="2004" maasa="ಭಾದ್ರಪದ" samvatsara="ತಾರಣ">
+		<part pnum="10" month="10" year="2004" maasa="ಆಶ್ವಯುಜ" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -31170,7 +31170,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="10" year="2004" maasa="ಆಶ್ವಯುಜ" samvatsara="ತಾರಣ">
+		<part pnum="11" month="11" year="2004" maasa="ಕಾರ್ತಿಕ" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -31280,7 +31280,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="11" year="2004" maasa="ಕಾರ್ತಿಕ" samvatsara="ತಾರಣ">
+		<part pnum="12" month="12" year="2004" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -31383,7 +31383,7 @@
 		</part>
 	</volume>
 	<volume vnum="042">
-		<part pnum="01" month="12" year="2004" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ತಾರಣ">
+		<part pnum="01" month="01" year="2004" maasa="ಪುಷ್ಯ" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
 				<feature></feature>
@@ -31484,7 +31484,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" month="01" year="2005" maasa="ಪುಷ್ಯ" samvatsara="ತಾರಣ">
+		<part pnum="02" month="02" year="2005" maasa="ಮಾಘ" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -31585,7 +31585,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" month="02" year="2005" maasa="ಮಾಘ" samvatsara="ತಾರಣ">
+		<part pnum="03" month="03" year="2005" maasa="ಫಾಲ್ಗುಣ" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -31702,7 +31702,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" month="03" year="2005" maasa="ಫಾಲ್ಗುಣ/ಚೈತ್ರ" samvatsara="ತಾರಣ/ಪಾರ್ಥಿವ">
+		<part pnum="04" month="04" year="2005" maasa="ಚೈತ್ರ" samvatsara="ತಾರಣ/ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -31811,7 +31811,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="05" month="04" year="2005" maasa="ಚೈತ್ರ/ವೈಶಾಖ" samvatsara="ಪಾರ್ಥಿವ">
+		<part pnum="05" month="05" year="2005" maasa="ವೈಶಾಖ" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -31899,7 +31899,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="06" month="05" year="2005" maasa="ವೈಶಾಖ/ಜ್ಯೇಷ್ಠ" samvatsara="ಪಾರ್ಥಿವ">
+		<part pnum="06" month="06" year="2005" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -31991,7 +31991,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="07" month="06" year="2005" maasa="ಜ್ಯೇಷ್ಠ/ಆಷಾಢ" samvatsara="ಪಾರ್ಥಿವ">
+		<part pnum="07" month="07" year="2005" maasa="ಆಷಾಢ" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -32097,7 +32097,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" month="07" year="2005" maasa="ಆಷಾಢ/ಶ್ರಾವಣ" samvatsara="ಪಾರ್ಥಿವ">
+		<part pnum="08" month="08" year="2005" maasa="ಶ್ರಾವಣ" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -32201,7 +32201,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="08" year="2005" maasa="ಶ್ರಾವಣ/ಭಾದ್ರಪದ" samvatsara="ಪಾರ್ಥಿವ">
+		<part pnum="09" month="09" year="2005" maasa="ಭಾದ್ರಪದ" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -32281,7 +32281,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="10" year="2005" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ಪಾರ್ಥಿವ">
+		<part pnum="10" month="10" year="2005" maasa="ಆಶ್ವಯುಜ" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -32395,7 +32395,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="11" year="2005" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ಪಾರ್ಥಿವ">
+		<part pnum="11" month="11" year="2005" maasa="ಕಾರ್ತಿಕ" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -32497,7 +32497,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="12" year="2005" maasa="ಕಾರ್ತಿಕ/ಮಾರ್ಗಶಿರ" samvatsara="ಪಾರ್ಥಿವ">
+		<part pnum="12" month="12" year="2005" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಸೂಕ್ತಿಸೌರಭ</title>
 				<feature></feature>
@@ -33007,7 +33007,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="05" month="05" year="2006" maasa="ವೈಶಾಖ/ಜ್ಯೇಷ್ಠ" samvatsara="ವ್ಯಯ">
+		<part pnum="05" month="05" year="2006" maasa="ವೈಶಾಖ" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -33095,7 +33095,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="06" month="06" year="2006" maasa="ಜ್ಯೇಷ್ಠ/ಆಷಾಢ" samvatsara="ವ್ಯಯ">
+		<part pnum="06" month="06" year="2006" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -33187,7 +33187,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="07" month="07" year="2006" maasa="ಆಷಾಢ/ಶ್ರಾವಣ" samvatsara="ವ್ಯಯ">
+		<part pnum="07" month="07" year="2006" maasa="ಆಷಾಢ" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -33279,7 +33279,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="08" month="08" year="2006" maasa="ಶ್ರಾವಣ/ಭಾದ್ರಪದ" samvatsara="ವ್ಯಯ">
+		<part pnum="08" month="08" year="2006" maasa="ಶ್ರಾವಣ" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -33369,7 +33369,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="09" month="09" year="2006" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ವ್ಯಯ">
+		<part pnum="09" month="09" year="2006" maasa="ಭಾದ್ರಪದ" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -33468,7 +33468,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="10" year="2006" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ವ್ಯಯ">
+		<part pnum="10" month="10" year="2006" maasa="ಆಶ್ವಯುಜ" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -33586,7 +33586,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="11" month="11" year="2006" maasa="ಕಾರ್ತಿಕ/ಮಾರ್ಗಶಿರ" samvatsara="ವ್ಯಯ">
+		<part pnum="11" month="11" year="2006" maasa="ಕಾರ್ತಿಕ" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -33694,7 +33694,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="12" year="2006" maasa="ಮಾರ್ಗಶಿರ/ಪುಷ್ಯ" samvatsara="ವ್ಯಯ">
+		<part pnum="12" month="12" year="2006" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -33796,7 +33796,7 @@
 		</part>
 	</volume>
 	<volume vnum="044">
-		<part pnum="01" month="01" year="2007" maasa="ಪುಷ್ಯ/ಮಾಘ" samvatsara="ವ್ಯಯ">
+		<part pnum="01" month="01" year="2007" maasa="ಪುಷ್ಯ" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -33906,7 +33906,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="02" year="2007" maasa="ಮಾಘ/ಫಾಲ್ಗುಣ" samvatsara="ವ್ಯಯ">
+		<part pnum="02" month="02" year="2007" maasa="ಮಾಘ" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -34014,7 +34014,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" month="03" year="2007" maasa="ಫಾಲ್ಗುಣ/ಚೈತ್ರ" samvatsara="ವ್ಯಯ/ಸರ್ವಜಿತ್">
+		<part pnum="03" month="03" year="2007" maasa="ಫಾಲ್ಗುಣ" samvatsara="ವ್ಯಯ/ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -34130,7 +34130,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" month="04" year="2007" maasa="ಚೈತ್ರ/ವೈಶಾಖ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="04" month="04" year="2007" maasa="ಚೈತ್ರ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -34232,7 +34232,7 @@
 				</allauthors>
 			</entry>	
 		</part>
-		<part pnum="05" month="05" year="2007" maasa="ವೈಶಾಖ/ಅಧಿಕ ಜ್ಯೇಷ್ಠ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="05" month="05" year="2007" maasa="ವೈಶಾಖ " samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -34322,7 +34322,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="06" month="06" year="2007" maasa="ಅಧಿಕ/ನಿಜ ಜ್ಯೇಷ್ಠ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="06" month="06" year="2007" maasa="ಅಧಿಕ ಜ್ಯೇಷ್ಠ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಮಾಸ ಪಂಚಾಂಗ</title>
 				<feature></feature>
@@ -34416,7 +34416,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="07" month="07" year="2007" maasa="ಆಷಾಢ/ಶ್ರಾವಣ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="07" month="07" year="2007" maasa="ಆಷಾಢ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -34538,7 +34538,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" month="08" year="2007" maasa="ಶ್ರಾವಣ/ಭಾದ್ರಪದ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="08" month="08" year="2007" maasa="ಶ್ರಾವಣ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -34670,7 +34670,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="09" year="2007" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="09" month="09" year="2007" maasa="ಭಾದ್ರಪದ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -34778,7 +34778,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="10" year="2007" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="10" month="10" year="2007" maasa="ಆಶ್ವಯುಜ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -34888,7 +34888,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="11" year="2007" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="11" month="11" year="2007" maasa="ಕಾರ್ತಿಕ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -34998,7 +34998,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="12" year="2007" maasa="ಕಾರ್ತಿಕ/ಮಾರ್ಗಶಿರ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="12" month="12" year="2007" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -35110,7 +35110,7 @@
 		</part>
 	</volume>
 	<volume vnum="045">
-		<part pnum="01" month="01" year="2008" maasa="ಮಾರ್ಗಶಿರ/ಪುಷ್ಯ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="01" month="01" year="2008" maasa="ಪುಷ್ಯ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಪ್ರಕಾಶಕೀಯ</title>
 				<feature></feature>
@@ -35238,7 +35238,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" month="02" year="2008" maasa="ಪುಷ್ಯ/ಮಾಘ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="02" month="02" year="2008" maasa="ಮಾಘ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -35384,7 +35384,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" month="03" year="2008" maasa="ಮಾಘ/ಫಾಲ್ಗುಣ" samvatsara="ಸರ್ವಜಿತ್">
+		<part pnum="03" month="03" year="2008" maasa="ಫಾಲ್ಗುಣ" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -35758,7 +35758,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="06" month="06" year="2008" maasa="ವೈಶಾಖ/ಜ್ಯೇಷ್ಠ" samvatsara="ಸರ್ವಧಾರೀ">
+		<part pnum="06" month="06" year="2008" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ಸರ್ವಧಾರೀ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -35892,7 +35892,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="07" month="07" year="2008" maasa="ಜ್ಯೇಷ್ಠ / ಆಷಾಢ" samvatsara="ಸರ್ವಧಾರೀ">
+		<part pnum="07" month="07" year="2008" maasa="ಆಷಾಢ" samvatsara="ಸರ್ವಧಾರೀ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -36052,7 +36052,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" month="08" year="2008" maasa="ಆಷಾಢ/ಶ್ರಾವಣ" samvatsara="ಸರ್ವಧಾರೀ">
+		<part pnum="08" month="08" year="2008" maasa="ಶ್ರಾವಣ" samvatsara="ಸರ್ವಧಾರೀ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -36194,7 +36194,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="09" year="2008" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ಸರ್ವಧಾರೀ">
+		<part pnum="09" month="09" year="2008" maasa="ಆಶ್ವಯುಜ" samvatsara="ಸರ್ವಧಾರೀ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -36322,7 +36322,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="10" year="2008" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ಸರ್ವಧಾರೀ">
+		<part pnum="10" month="10" year="2008" maasa="ಆಶ್ವಯುಜ" samvatsara="ಸರ್ವಧಾರೀ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -36443,7 +36443,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="11" year="2008" maasa="ಕಾರ್ತಿಕ/ಮಾರ್ಗಶಿರ" samvatsara="ಸರ್ವಧಾರೀ">
+		<part pnum="11" month="11" year="2008" maasa="ಕಾರ್ತಿಕ" samvatsara="ಸರ್ವಧಾರೀ">
 			<entry>
 				<title>ಪ್ರಕಾಶಕೀಯ</title>
 				<feature></feature>
@@ -36571,7 +36571,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="12" year="2008" maasa="ಮಾರ್ಗಶಿರ/ಪುಷ್ಯ" samvatsara="ಸರ್ವಧಾರೀ">
+		<part pnum="12" month="12" year="2008" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಸರ್ವಧಾರೀ">
 			<entry>
 				<title>ಪ್ರಕಾಶಕೀಯ</title>
 				<feature></feature>
@@ -36717,7 +36717,7 @@
 		</part>
 	</volume>
 	<volume vnum="046">
-		<part pnum="01" month="01" year="2009" maasa="ಪುಷ್ಯ/ಮಾಘ" samvatsara="ಸರ್ವಧಾರೀ">
+		<part pnum="01" month="01" year="2009" maasa="ಪುಷ್ಯ" samvatsara="ಸರ್ವಧಾರೀ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -36859,7 +36859,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" month="02" year="2009" maasa="ಮಾಘ/ಫಾಲ್ಗುಣ" samvatsara="ಸರ್ವಧಾರೀ">
+		<part pnum="02" month="02" year="2009" maasa="ಮಾಘ" samvatsara="ಸರ್ವಧಾರೀ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -36977,7 +36977,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" month="03" year="2009" maasa="ಫಾಲ್ಗುಣ/ಚೈತ್ರ" samvatsara="ಸರ್ವಧಾರೀ/ವಿರೋಧಿ">
+		<part pnum="03" month="03" year="2009" maasa="ಫಾಲ್ಗುಣ" samvatsara="ಸರ್ವಧಾರೀ/ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -37087,7 +37087,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" month="04" year="2009" maasa="ಚೈತ್ರ/ವೈಶಾಖ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="04" month="04" year="2009" maasa="ಚೈತ್ರ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -37201,7 +37201,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="05" month="05" year="2009" maasa="ವೈಶಾಖ/ಜ್ಯೇಷ್ಠ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="05" month="05" year="2009" maasa="ವೈಶಾಖ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -37301,7 +37301,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="06" month="06" year="2009" maasa="ಜ್ಯೇಷ್ಠ/ಆಷಾಢ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="06" month="06" year="2009" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -37429,7 +37429,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="07" month="07" year="2009" maasa="ಆಷಾಢ/ಶ್ರಾವಣ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="07" month="07" year="2009" maasa="ಆಷಾಢ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -37556,7 +37556,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" month="08" year="2009" maasa="ಶ್ರಾವಣ/ಭಾದ್ರಪದ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="08" month="08" year="2009" maasa="ಶ್ರಾವಣ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -37663,7 +37663,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="09" year="2009" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="09" month="09" year="2009" maasa="ಭಾದ್ರಪದ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -37798,7 +37798,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="10" year="2009" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="10" month="10" year="2009" maasa="ಆಶ್ವಯುಜ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -37949,7 +37949,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="11" year="2009" maasa="ಕಾರ್ತಿಕ/ಮಾರ್ಗಶಿರ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="11" month="11" year="2009" maasa="ಕಾರ್ತಿಕ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -38082,7 +38082,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="12" year="2009" maasa="ಮಾರ್ಗಶಿರ/ಪುಷ್ಯ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="12" month="12" year="2009" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -38227,7 +38227,7 @@
 		</part>
 	</volume>
 	<volume vnum="047">
-		<part pnum="01" month="01" year="2010" maasa="ಪುಷ್ಯ/ಮಾಘ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="01" month="01" year="2010" maasa="ಪುಷ್ಯ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಪ್ರಕಾಶಕರ ಮಾತು</title>
 				<feature></feature>
@@ -38354,7 +38354,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" month="02" year="2010" maasa="ಮಾಘ/ಫಾಲ್ಗುಣ" samvatsara="ವಿರೋಧಿ">
+		<part pnum="02" month="02" year="2010" maasa="ಮಾಘ" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -38479,7 +38479,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" month="03" year="2010" maasa="ಫಾಲ್ಗುಣ/ಚೈತ್ರ" samvatsara="ವಿರೋಧಿ/ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="03" month="03" year="2010" maasa="ಫಾಲ್ಗುಣ" samvatsara="ವಿರೋಧಿ/ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -38555,7 +38555,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" month="04" year="2010" maasa="ಚೈತ್ರ/ಅಧಿಕ ವೈಶಾಖ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="04" month="04" year="2010" maasa="ಚೈತ್ರ " samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -38693,7 +38693,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="05" month="05" year="2010" maasa="ನಿಜ-ವೈಶಾಖ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="05" month="05" year="2010" maasa="ಅಧಿಕ-ವೈಶಾಖ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -38779,7 +38779,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="06" month="06" year="2010" maasa="ನಿಜವೈಶಾಖ/ಜ್ಯೇಷ್ಠ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="06" month="06" year="2010" maasa="ನಿಜ-ವೈಶಾಖ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -38912,7 +38912,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="07" month="07" year="2010" maasa="ನಿಜವೈಶಾಖ/ಜ್ಯೇಷ್ಠ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="07" month="07" year="2010" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -39039,7 +39039,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" month="08" year="2010" maasa="ಅಧಿಕ/ನಿಜ-ವೈಶಾಖ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="08" month="08" year="2010" maasa="ಶ್ರಾವಣ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -39158,7 +39158,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="09" year="2010" maasa="ಶ್ರಾವಣ/ಭಾದ್ರಪದ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="09" month="09" year="2010" maasa="ಭಾದ್ರಪದ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -39301,7 +39301,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="10" year="2010" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="10" month="10" year="2010" maasa="ಆಶ್ವಯುಜ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -39421,7 +39421,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="11" year="2010" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="11" month="11" year="2010" maasa="ಕಾರ್ತಿಕ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -39547,7 +39547,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="12" year="2010" maasa="ಕಾರ್ತಿಕ/ಮಾರ್ಗಶಿರ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="12" month="12" year="2010" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯಾಷ್ಟಕಮ್</title>
 				<feature></feature>
@@ -39673,7 +39673,7 @@
 		</part>
 	</volume>
 	<volume vnum="048">
-		<part pnum="01" month="12" year="2011" maasa="ಮಾರ್ಗಶಿರ/ಪುಷ್ಯ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="01" month="01" year="2011" maasa="ಪುಷ್ಯ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಪ್ರಕಾಶಕರ ಮಾತು</title>
 				<feature></feature>
@@ -39807,7 +39807,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" month="02" year="2011" maasa="ಪುಷ್ಯ/ಮಾಘ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="02" month="02" year="2011" maasa="ಮಾಘ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -39939,7 +39939,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" month="03" year="2011" maasa="ಮಾಘ/ಫಾಲ್ಗುಣ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
+		<part pnum="03" month="03" year="2011" maasa="ಫಾಲ್ಗುಣ" samvatsara="ಶ್ರೀವಿಕೃತಿ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -40205,7 +40205,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="05" month="05" year="2011" maasa="ಚೈತ್ರ/ವೈಶಾಖ" samvatsara="ಶ್ರೀಖರ">
+		<part pnum="05" month="05" year="2011" maasa="ವೈಶಾಖ" samvatsara="ಶ್ರೀಖರ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -40554,7 +40554,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" month="08" year="2011" maasa="ಶ್ರಾವಣ/ಭಾದ್ರಪದ" samvatsara="ಶ್ರೀಖರ">
+		<part pnum="08" month="08" year="2011" maasa="ಶ್ರಾವಣ" samvatsara="ಶ್ರೀಖರ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -40680,7 +40680,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="09" year="2011" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ಶ್ರೀಖರ">
+		<part pnum="09" month="09" year="2011" maasa="ಭಾದ್ರಪದ" samvatsara="ಶ್ರೀಖರ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -40790,7 +40790,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="10" year="2011" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ಶ್ರೀಖರ">
+		<part pnum="10" month="10" year="2011" maasa="ಆಶ್ವಯುಜ" samvatsara="ಶ್ರೀಖರ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -40916,7 +40916,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="11" year="2011" maasa="ಕಾರ್ತಿಕ/ಮಾರ್ಗಶಿರ" samvatsara="ಶ್ರೀಖರ">
+		<part pnum="11" month="11" year="2011" maasa="ಕಾರ್ತಿಕ" samvatsara="ಶ್ರೀಖರ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -41048,7 +41048,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="12" year="2011" maasa="ಮಾರ್ಗಶಿರ/ಪುಷ್ಯ" samvatsara="ಶ್ರೀಖರ">
+		<part pnum="12" month="12" year="2011" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಶ್ರೀಖರ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -41182,7 +41182,7 @@
 		</part>
 	</volume>
 	<volume vnum="049">
-		<part pnum="01" month="01" year="2012" maasa="ಪುಷ್ಯ/ಮಾಘ" samvatsara="ಶ್ರೀಖರ">
+		<part pnum="01" month="01" year="2012" maasa="ಪುಷ್ಯ" samvatsara="ಶ್ರೀಖರ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -41324,7 +41324,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" month="02" year="2012" maasa="ಮಾಘ/ಫಾಲ್ಗುಣ" samvatsara="ಶ್ರೀಖರ">
+		<part pnum="02" month="02" year="2012" maasa="ಮಾಘ" samvatsara="ಶ್ರೀಖರ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -41474,7 +41474,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" month="03" year="2012" maasa="ಫಾಲ್ಗುಣ/ಚೈತ್ರ" samvatsara="ಶ್ರೀಖರ/ನಂದನ">
+		<part pnum="03" month="03" year="2012" maasa="ಫಾಲ್ಗುಣ" samvatsara="ಶ್ರೀಖರ/ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -41608,7 +41608,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" month="04" year="2012" maasa="ಚೈತ್ರ/ವೈಶಾಖ" samvatsara="ನಂದನ">
+		<part pnum="04" month="04" year="2012" maasa="ಚೈತ್ರ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -41718,7 +41718,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="05" month="05" year="2012" maasa="ವೈಶಾಖ/ಜ್ಯೇಷ್ಠ" samvatsara="ನಂದನ">
+		<part pnum="05" month="05" year="2012" maasa="ವೈಶಾಖ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -41860,7 +41860,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="06" month="06" year="2012" maasa="ಜ್ಯೇಷ್ಠ/ಆಷಾಢ" samvatsara="ನಂದನ">
+		<part pnum="06" month="06" year="2012" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -41988,7 +41988,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="07" month="07" year="2012" maasa="ಆಷಾಢ/ಶ್ರಾವಣ" samvatsara="ನಂದನ">
+		<part pnum="07" month="07" year="2012" maasa="ಶ್ರಾವಣ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -42126,7 +42126,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" month="08" year="2012" maasa="ಶ್ರಾವಣ/ಅಧಿಕ ಭಾದ್ರಪದ" samvatsara="ನಂದನ">
+		<part pnum="08" month="08" year="2012" maasa="ಅಧಿಕ ಭಾದ್ರಪದ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -42274,7 +42274,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="09" year="2012" maasa="ಅಧಿಕ/ನಿಜ ಭಾದ್ರಪದ" samvatsara="ನಂದನ">
+		<part pnum="09" month="09" year="2012" maasa="ನಿಜ ಭಾದ್ರಪದ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -42414,7 +42414,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="09" year="2012" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ನಂದನ">
+		<part pnum="10" month="10" year="2012" maasa="ಆಶ್ವಯುಜ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -42554,7 +42554,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="10" year="2012" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ನಂದನ">
+		<part pnum="11" month="11" year="2012" maasa="ಕಾರ್ತಿಕ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಶ್ರೀ ಶಾಂಕರಸೂಕ್ತಿ ಮಣಿಹಾರಃ</title>
 				<feature></feature>
@@ -42654,7 +42654,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="11" year="2012" maasa="ಕಾರ್ತಿಕ/ಮಾರ್ಗಶಿರ" samvatsara="ನಂದನ">
+		<part pnum="12" month="12" year="2012" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -42788,7 +42788,7 @@
 		</part>
 	</volume>
 	<volume vnum="050">
-		<part pnum="01" month="12" year="2012" maasa="ಮಾರ್ಗಶಿರ/ಪುಷ್ಯ" samvatsara="ನಂದನ">
+		<part pnum="01" month="01" year="2012" maasa="ಪುಷ್ಯ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಪ್ರಕಾಶಕೀಯ</title>
 				<feature></feature>
@@ -42920,7 +42920,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" month="01" year="2013" maasa="ಪುಷ್ಯ/ಮಾಘ" samvatsara="ನಂದನ">
+		<part pnum="02" month="02" year="2013" maasa="ಮಾಘ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -43060,7 +43060,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" month="02" year="2013" maasa="ಮಾಘ/ಫಾಲ್ಗುಣ" samvatsara="ನಂದನ">
+		<part pnum="03" month="03" year="2013" maasa="ಫಾಲ್ಗುಣ" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -43192,7 +43192,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" month="03" year="2013" maasa="ಫಾಲ್ಗುಣ/ಚೈತ್ರ" samvatsara="ನಂದನ/ವಿಜಯನಾಮ">
+		<part pnum="04" month="04" year="2013" maasa="ಚೈತ್ರ" samvatsara="ನಂದನ/ವಿಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -43260,7 +43260,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="05" month="04" year="2013" maasa="ಚೈತ್ರ/ವೈಶಾಖ" samvatsara="ವಿಜಯನಾಮ">
+		<part pnum="05" month="05" year="2013" maasa="ವೈಶಾಖ" samvatsara="ವಿಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -43374,7 +43374,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="06" month="05" year="2013" maasa="ವೈಶಾಖ/ಜ್ಯೇಷ್ಠ" samvatsara="ವಿಜಯನಾಮ">
+		<part pnum="06" month="06" year="2013" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ವಿಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -43492,7 +43492,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="07" month="06" year="2013" maasa="ಜ್ಯೇಷ್ಠ/ಆಷಾಢ" samvatsara="ವಿಜಯನಾಮ">
+		<part pnum="07" month="07" year="2013" maasa="ಆಷಾಢ" samvatsara="ವಿಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -43624,7 +43624,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" month="07" year="2013" maasa="ಆಷಾಢ/ಶ್ರಾವಣ" samvatsara="ವಿಜಯನಾಮ">
+		<part pnum="08" month="08" year="2013" maasa="ಶ್ರಾವಣ" samvatsara="ವಿಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -43780,7 +43780,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="08" year="2013" maasa="ಶ್ರಾವಣ/ಭಾದ್ರಪದ" samvatsara="ವಿಜಯನಾಮ">
+		<part pnum="09" month="09" year="2013" maasa="ಭಾದ್ರಪದ" samvatsara="ವಿಜಯನಾಮ">
 			<entry>
 				<title>ಶ್ರೀಗಣೇಶಭುಜಂಗ ಪ್ರಯಾತಾಷ್ಟಕ ಸ್ತೋತ್ರಮ್</title>
 				<feature></feature>
@@ -43910,7 +43910,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="09" year="2013" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ವಿಜಯನಾಮ">
+		<part pnum="10" month="10" year="2013" maasa="ಆಶ್ವಯುಜ" samvatsara="ವಿಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -44053,7 +44053,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="10" year="2013" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ವಿಜಯನಾಮ">
+		<part pnum="11" month="11" year="2013" maasa="ಕಾರ್ತಿಕ" samvatsara="ವಿಜಯನಾಮ">
 			<entry>
 				<title>ಪ್ರಕಾಶಕೀಯ</title>
 				<feature></feature>
@@ -44169,7 +44169,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="12" year="2013" maasa="ಮಾರ್ಗಶಿರ/ಪುಷ್ಯ" samvatsara="ವಿಜಯನಾಮ">
+		<part pnum="12" month="12" year="2013" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ವಿಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ</title>
 				<feature></feature>
@@ -44931,7 +44931,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="07" month="07" year="2014" maasa="ಆಷಾಢ/ಶ್ರಾವಣ" samvatsara="ಜಯನಾಮ">
+		<part pnum="07" month="07" year="2014" maasa="ಆಷಾಢ" samvatsara="ಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -45055,7 +45055,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" month="08" year="2014" maasa="ಶ್ರಾವಣ/ಭಾದ್ರಪದ" samvatsara="ಜಯನಾಮ">
+		<part pnum="08" month="08" year="2014" maasa="ಶ್ರಾವಣ" samvatsara="ಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -45165,7 +45165,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="09" month="09" year="2014" maasa="ಭಾದ್ರಪದ/ಆಶ್ವಯುಜ" samvatsara="ಜಯನಾಮ">
+		<part pnum="09" month="09" year="2014" maasa="ಭಾದ್ರಪದ" samvatsara="ಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -45275,7 +45275,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="10" month="10" year="2014" maasa="ಆಶ್ವಯುಜ/ಕಾರ್ತಿಕ" samvatsara="ಜಯನಾಮ">
+		<part pnum="10" month="10" year="2014" maasa="ಆಶ್ವಯುಜ" samvatsara="ಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -45385,7 +45385,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="11" month="11" year="2014" maasa="ಕಾರ್ತಿಕ/ಮಾರ್ಗಶಿರ" samvatsara="ಜಯನಾಮ">
+		<part pnum="11" month="11" year="2014" maasa="ಕಾರ್ತಿಕ" samvatsara="ಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
@@ -45499,7 +45499,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="12" year="2014" maasa="ಮಾರ್ಗಶಿರ/ಪುಷ್ಯ" samvatsara="ಜಯನಾಮ">
+		<part pnum="12" month="12" year="2014" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಜಯನಾಮ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಮಾತು</title>
 				<feature></feature>
