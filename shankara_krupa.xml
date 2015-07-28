@@ -24323,61 +24323,150 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="" month="" year="" maasa="" samvatsara="">
+		<part pnum="02" month="11" year="1995" maasa="ಕಾರ್ತಿಕ" samvatsara="ಶ್ರೀಯುವ">
 			<entry>
-				<title></title>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0000e-0000e</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬಂಧ ನಿವೃತ್ತಿ-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0001-0006</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0012</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಅದ್ವೈತದ ಆಚಾರ್ಯರು-೧೩ ಶ್ರೀಹರ್ಷ</title>
 				<feature></feature>
-				<page></page>
+				<page>0013-0018</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಪುಸ್ತಕ ವಿಮರ್ಶೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0019-0026</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಶೃಂಗೇರಿ ಸಂಸ್ಕೃತ ಪಾಠಶಾಲೆಯ ಶತಮಾನೋತ್ಸವಕ್ಕೆ ಸಡಗರದ ಸಿದ್ಧತೆ</title>
 				<feature></feature>
-				<page></page>
+				<page>0027-0028</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಸೌಂದರ್ಯ ಲಹರೀ (ಮುಂದುವರೆದುದು)</title>
 				<feature></feature>
-				<page></page>
+				<page>0029-0031</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="1" title="ಶ್ರೀ">ದಾಂಡೇಕರ ಚಂ. ವಾ.</author>
+					<author type="2" title="">ವೈದ್ಯ ಎನ್. ಎಸ್. ಶ್ರೀ </author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="12" year="1995" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಶ್ರೀಯುವ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000e</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬಂಧ ನಿವೃತ್ತಿ-(ಮುಂದುವರೆದುದು)-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0010</page>
 				<allauthors>
-					<author type="1" title=""></author>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತದ ಆಚಾರ್ಯರು-೧೩ ಶ್ರೀಹರ್ಷ (ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0011-0014</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಮಾತ್ಮನನ್ನು ಅರಿಯುವ ಬಗೆ</title>
+				<feature></feature>
+				<page>0015-0020</page>
+				<allauthors>
+					<author type="1" title="ಸ್ವಾಮಿ">ಪವಿತ್ರಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೌಂದರ್ಯ ಲಹರೀ (ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0021-0026</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ದಾಂಡೇಕರ ಚಂ. ವಾ.</author>
+					<author type="2" title="">ವೈದ್ಯ ಎನ್. ಎಸ್. ಶ್ರೀ </author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="01" year="1996" maasa="ಪುಷ್ಯ" samvatsara="ಶ್ರೀಯುವ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000e</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಮಪೂಜ್ಯ ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0005-0012</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತದ ಆಚಾರ್ಯರು-೧೩ ಶ್ರೀಹರ್ಷ (ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0013-0020</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೌಂದರ್ಯ ಲಹರೀ (ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ದಾಂಡೇಕರ ಚಂ. ವಾ.</author>
+					<author type="2" title="">ವೈದ್ಯ ಎನ್. ಎಸ್. ಶ್ರೀ </author>
 				</allauthors>
 			</entry>
 		</part>
@@ -24499,6 +24588,70 @@
 				</allauthors>
 			</entry>
 		</part>
+		<part pnum="07" month="04" year="1996" maasa="ಚೈತ್ರ" samvatsara="ಧಾತೃ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000e</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಲಕ್ಷ್ಯ ಮತ್ತು ಸಾಧನ-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಮಪೂಜ್ಯ ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0007-0012</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತದ ಆಚಾರ್ಯರು-೧೫ ಶ್ರೀ ಆನಂದಬೋಧ (ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0013-0020</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿವೇಕದ ಬಾಳು</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ">ಶಾಮಾಚಾರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ಪರಿಚಯ</title>
+				<feature></feature>
+				<page>0025-0028</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶೃಂಗೇರಿ ಗುರುವರ್ಯರ ವರ್ಧಂತಿ ಸಮಾರಂಭ</title>
+				<feature></feature>
+				<page>0029-0030</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆಚಾರ್ಯ ಶ್ರೀ ಶಂಕರರು-ತ್ಯಾಗ-ಪವಾಡ</title>
+				<feature></feature>
+				<page>0031-0034</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+		</part>
 		<part pnum="08" month="05" year="1996" maasa="ವೈಶಾಖ" samvatsara="ಧಾತೃ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
@@ -24608,6 +24761,120 @@
 				<page>0035-0042</page>
 				<allauthors>
 					<author type="1" title="ಶ್ರೀ">ನರಸಿಂಹಮೂರ್ತಿ ಹೆಚ್. ವಿ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="07" year="1996" maasa="ಆಷಾಢ" samvatsara="ಧಾತೃ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಲಕ್ಷ್ಯ ಮತ್ತು ಸಾಧನ-ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0001-0010</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಮಪೂಜ್ಯ ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0011-0016</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸುರೇಶ್ವರಾಚಾರ್ಯರ ಸಾಧನ ಪಕ್ಷ</title>
+				<feature></feature>
+				<page>0017-0026</page>
+				<allauthors>
+					<author type="1" title="">ಆಚಾರ್ಯ ಪಂಡಿತ ಬಲದೇವ ಉಪಾಧ್ಯಾಯ</author>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತದ ಆಚಾರ್ಯರು-೧೬. ಶ್ರೀ ಚಿತ್ಸುಖಾಚಾರ್ಯರು (ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0027-0030</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯರು</title>
+				<feature></feature>
+				<page>0031-0036</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಸಚ್ಚಿದಾನಂದ ಮೂರ್ತಿ ಕೆ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಸುರೇಶ್ವರಾಚಾರ್ಯರ ಅವಿರೋಧ ದೃಷ್ಟಿ (ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0037-0040</page>
+				<allauthors>
+					<author type="1" title="ಪಂಡಿತಪ್ರವರ ವಿದ್ವಾನ್">ಕೃಷ್ಣಜೋಯಿಸ್ ಕೆ.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="08" year="1996" maasa="ಶ್ರಾವಣ" samvatsara="ಧಾತೃ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಮಪೂಜ್ಯ ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0007-0012</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯರು (ಮುಂದುವರೆದುದು)</title>
+				<feature></feature>
+				<page>0013-0022</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಸಚ್ಚಿದಾನಂದ ಮೂರ್ತಿ ಕೆ.</author>
+					<author type="2" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ಆಚಾರ್ಯರು-೧೩. ಶ್ರೀ ಅನುಭೂತಿಸ್ವರೂಪಾಚಾರ್ಯ</title>
+				<feature></feature>
+				<page>0023-0028</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೇದೋನಿತ್ಯಮಧೀಯತಾಂ</title>
+				<feature></feature>
+				<page>0029-0034</page>
+				<allauthors>
+					<author type="1" title="ಡಾ||">ಚಂದ್ರಶೇಖರ್ ಹೆಚ್. ಎಲ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತ್ರಿಕಾಲ ಸಂಧ್ಯಾವಂದನೆ ಶಾಸ್ತ್ರೀಯ</title>
+				<feature></feature>
+				<page>0035-0037</page>
+				<allauthors>
+					<author type="1" title="ಪಂಡಿತಪ್ರವರ ವಿದ್ವಾನ್">ಕೃಷ್ಣಜೋಯಿಸ್ ಕೆ.</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -24754,6 +25021,78 @@
 				<page>0037-0038</page>
 				<allauthors>
 					<author type="1" title="">ಸಂತಹರಿಹರಾನಂದಾಜೀ</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="11" year="1996" maasa="ಕಾರ್ತಿಕ" samvatsara="ಧಾತೃ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಮಪೂಜ್ಯ ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳವರ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0007-0010</page>
+				<allauthors>
+					<author type="2" title="ಶ್ರೀ">ರಾಮಚಂದ್ರಶಾಸ್ತ್ರೀ ಎಸ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಅದ್ವೈತಾಚಾರ್ಯರು-೧೯-ಆನಂದಪೂರ್ಣವಿದ್ಯಾಸಾಗರ</title>
+				<feature></feature>
+				<page>0011-0016</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಹಂತೆಯ ಪರಿಣಾಮ</title>
+				<feature></feature>
+				<page>0017-0018</page>
+				<allauthors>
+					<author type="1" title="">ಸಂತಹರಿಹರಾನಂದ ಸ್ವಾಮೀಜಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಳ್ಳೆಯ ಒಡನಾಟ</title>
+				<feature></feature>
+				<page>0019-0022</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗಗಿರಿಯ ಶ್ರೀ ಗಣಪತಿ ವಾಕ್ಯಾರ್ಥ ಸಭಾ</title>
+				<feature></feature>
+				<page>0023-0026</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್ ಶ್ರೀ">ನರಸಿಂಹಮೂರ್ತಿಶಾಸ್ತ್ರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಧರ್ಮೋ ರಕ್ಷತಿ ರಕ್ಷಿತಿ</title>
+				<feature></feature>
+				<page>0027-0030</page>
+				<allauthors>
+					<author type="1" title="">ಸುಬ್ರಹ್ಮಣ್ಯಂ ಬಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ರಾಮಚಂದ್ರಸ್ವಾಮಿನೇ ನಮಃ</title>
+				<feature></feature>
+				<page>0031-0033</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ಕೃಷ್ಣಜೋಯಿಸ್ ಕೆ.</author>
 				</allauthors>
 			</entry>
 		</part>
